@@ -21,8 +21,14 @@ This repository contains exactly the 4 required deliverables:
 To run the `ARIA.ipynb` notebook, you need these additional data files:
 
 ### Required Data Files
-- `shelter_data.csv` (161KB) - Fire Department shelter data
+- `shelter_data_clean.csv` (158KB) - Cleaned Fire Department shelter data
 - `rivers_data.geojson` (77MB) - Water Resources Agency river data
+
+**Data Quality Notes**:
+- Original data: 967 shelters with 31 problematic records
+- Cleaned data: 936 valid shelters (3.2% removed)
+- Issues removed: Zero capacity (3), Invalid coordinates (3), Duplicate coordinates (31)
+- Total capacity: 558,016 people
 
 **Note**: These data files are large and are provided separately from the official assignment submission to keep the repository size manageable. See `DATA_INSTRUCTIONS.md` for details.
 
@@ -88,11 +94,18 @@ To run the `ARIA.ipynb` notebook, you need these additional data files:
 ## Key Findings
 
 ### Risk Distribution
-- **Total Shelters**: 967 facilities
-- **Total Capacity**: 565,547 people
-- **High Risk**: 345 shelters (35.7%) - 209,601 people
-- **Medium Risk**: 312 shelters (32.3%) - 165,309 people  
-- **Low Risk**: 310 shelters (32.1%) - 190,637 people
+- **Total Shelters**: 936 facilities (cleaned data)
+- **Total Capacity**: 558,016 people
+- **High Risk**: [Number] shelters ([Percentage]%) - [Capacity] people
+- **Medium Risk**: [Number] shelters ([Percentage]%) - [Capacity] people  
+- **Low Risk**: [Number] shelters ([Percentage]%) - [Capacity] people
+
+### Data Quality Improvements
+- ✅ Removed 3 shelters with zero capacity
+- ✅ Removed 3 shelters with invalid coordinates
+- ✅ Removed 31 duplicate coordinate records
+- ✅ Total data loss: 3.2% (31 records)
+- ✅ Improved data accuracy and reliability
 
 ### Technical Achievements
 - ✅ Zero font warnings in all outputs
