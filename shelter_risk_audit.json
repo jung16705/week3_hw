@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "analysis_date": "2026-03-16T21:42:54.199603",
-    "total_shelters": 967,
-    "total_capacity": 565547,
+    "analysis_date": "2026-03-16T22:24:51.828361",
+    "total_shelters": 936,
+    "total_capacity": 558016,
     "coordinate_system": "WGS84",
     "risk_levels": [
       "High Risk",
@@ -16,10 +16,10 @@
     ]
   },
   "risk_summary": {
-    "High Risk": 967
+    "High Risk": 936
   },
   "capacity_summary": {
-    "High Risk": 565547
+    "High Risk": 558016
   },
   "shelters": [
     {
@@ -108,76 +108,6 @@
     },
     {
       "shelter_id": "SHT_000006",
-      "name": "綜合活動中心",
-      "address": "烏來街34號",
-      "county": "新北市",
-      "district": "新北市烏來區",
-      "capacity": 30,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.548453,
-        "latitude": 24.883684
-      }
-    },
-    {
-      "shelter_id": "SHT_000007",
-      "name": "忠治活動中心",
-      "address": "忠治14號",
-      "county": "新北市",
-      "district": "新北市烏來區",
-      "capacity": 30,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.548453,
-        "latitude": 24.883684
-      }
-    },
-    {
-      "shelter_id": "SHT_000008",
-      "name": "福山活動中心",
-      "address": "2鄰李茂岸51號",
-      "county": "新北市",
-      "district": "新北市烏來區",
-      "capacity": 50,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.548453,
-        "latitude": 24.883684
-      }
-    },
-    {
-      "shelter_id": "SHT_000009",
-      "name": "烏來活動中心",
-      "address": "13鄰環山路82巷45號",
-      "county": "新北市",
-      "district": "新北市烏來區",
-      "capacity": 50,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.548453,
-        "latitude": 24.883684
-      }
-    },
-    {
-      "shelter_id": "SHT_000010",
-      "name": "福山國小",
-      "address": "福山里李茂岸56號",
-      "county": "新北市",
-      "district": "新北市烏來區",
-      "capacity": 305,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.548453,
-        "latitude": 24.883684
-      }
-    },
-    {
-      "shelter_id": "SHT_000011",
       "name": "龜山國小",
       "address": "新北市新店區新烏路三段99巷10號",
       "county": "新北市",
@@ -191,7 +121,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000012",
+      "shelter_id": "SHT_000007",
       "name": "廣興里辦公處",
       "address": "新北市新店區平廣路一段35巷3號",
       "county": "新北市",
@@ -205,7 +135,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000013",
+      "shelter_id": "SHT_000008",
       "name": "龜山市民活動中心",
       "address": "新北市新店區新烏路3段136號",
       "county": "新北市",
@@ -219,7 +149,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000014",
+      "shelter_id": "SHT_000009",
       "name": "石里倉庫",
       "address": "石27之1號",
       "county": "新北市",
@@ -233,7 +163,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000015",
+      "shelter_id": "SHT_000010",
       "name": "大埔國小",
       "address": "大埔路130號",
       "county": "新北市",
@@ -247,7 +177,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000016",
+      "shelter_id": "SHT_000011",
       "name": "明德高中",
       "address": "中正路二段399號",
       "county": "新北市",
@@ -261,7 +191,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000017",
+      "shelter_id": "SHT_000012",
       "name": "竹崙市民活動中心",
       "address": "竹崙里146號",
       "county": "新北市",
@@ -275,7 +205,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000018",
+      "shelter_id": "SHT_000013",
       "name": "臺北榮家",
       "address": "白雞127號",
       "county": "新北市",
@@ -289,7 +219,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000019",
+      "shelter_id": "SHT_000014",
       "name": "康橋高級中學",
       "address": "新北市新店區華城路800號",
       "county": "新北市",
@@ -303,7 +233,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000020",
+      "shelter_id": "SHT_000015",
       "name": "民義國小",
       "address": "白雞路40號",
       "county": "新北市",
@@ -317,7 +247,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000021",
+      "shelter_id": "SHT_000016",
       "name": "屈尺國小廣興分校",
       "address": "新店市廣興路57號。",
       "county": "新北市",
@@ -331,7 +261,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000022",
+      "shelter_id": "SHT_000017",
       "name": "屈尺國小",
       "address": "新北市新店區屈尺路五十五號",
       "county": "新北市",
@@ -345,7 +275,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000023",
+      "shelter_id": "SHT_000018",
       "name": "屈尺市民活動中心",
       "address": "新北市新店區屈尺路125號",
       "county": "新北市",
@@ -359,7 +289,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000024",
+      "shelter_id": "SHT_000019",
       "name": "大成國小",
       "address": "成福路215巷2號",
       "county": "新北市",
@@ -373,7 +303,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000025",
+      "shelter_id": "SHT_000020",
       "name": "建安國小",
       "address": "建安路67號",
       "county": "新北市",
@@ -387,7 +317,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000026",
+      "shelter_id": "SHT_000021",
       "name": "安溪國中",
       "address": "大同路135號",
       "county": "新北市",
@@ -401,7 +331,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000027",
+      "shelter_id": "SHT_000022",
       "name": "中園國小",
       "address": "弘園街22號",
       "county": "新北市",
@@ -415,7 +345,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000028",
+      "shelter_id": "SHT_000023",
       "name": "介壽國小",
       "address": "大同路1號",
       "county": "新北市",
@@ -429,7 +359,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000029",
+      "shelter_id": "SHT_000024",
       "name": "安溪國小",
       "address": "中華路42號",
       "county": "新北市",
@@ -443,7 +373,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000030",
+      "shelter_id": "SHT_000025",
       "name": "成福國小",
       "address": "溪東路213號",
       "county": "新北市",
@@ -457,7 +387,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000031",
+      "shelter_id": "SHT_000026",
       "name": "三峽國小",
       "address": "中山路16號",
       "county": "新北市",
@@ -471,7 +401,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000032",
+      "shelter_id": "SHT_000027",
       "name": "長青市民活動中心",
       "address": "中山路65號",
       "county": "新北市",
@@ -485,7 +415,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000033",
+      "shelter_id": "SHT_000028",
       "name": "新北市坪林區公所",
       "address": "坪林101號",
       "county": "新北市",
@@ -499,7 +429,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000034",
+      "shelter_id": "SHT_000029",
       "name": "新北市坪林區坪林國民小學",
       "address": "坪林114號",
       "county": "新北市",
@@ -513,7 +443,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000035",
+      "shelter_id": "SHT_000030",
       "name": "直潭國小",
       "address": "新北市新店區直潭路92號",
       "county": "新北市",
@@ -527,7 +457,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000036",
+      "shelter_id": "SHT_000031",
       "name": "新北市立坪林國民中學",
       "address": "國中路4號",
       "county": "新北市",
@@ -541,7 +471,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000037",
+      "shelter_id": "SHT_000032",
       "name": "三峽國中",
       "address": "復興路238號",
       "county": "新北市",
@@ -555,7 +485,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000038",
+      "shelter_id": "SHT_000033",
       "name": "鶯歌高職",
       "address": "中正三路154號",
       "county": "新北市",
@@ -569,7 +499,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000039",
+      "shelter_id": "SHT_000034",
       "name": "龍埔國小",
       "address": "大學路6號",
       "county": "新北市",
@@ -583,7 +513,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000040",
+      "shelter_id": "SHT_000035",
       "name": "二橋國小",
       "address": "鶯歌區中正三路106號",
       "county": "新北市",
@@ -597,7 +527,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000041",
+      "shelter_id": "SHT_000036",
       "name": "新北市立尖山國民中學",
       "address": "鶯歌區國中街1號",
       "county": "新北市",
@@ -611,7 +541,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000042",
+      "shelter_id": "SHT_000037",
       "name": "北大高中",
       "address": "大義路277號",
       "county": "新北市",
@@ -625,7 +555,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000043",
+      "shelter_id": "SHT_000038",
       "name": "桃子腳國民中小學",
       "address": "學勤路555號",
       "county": "新北市",
@@ -639,7 +569,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000044",
+      "shelter_id": "SHT_000039",
       "name": "南靖里活動中心",
       "address": "鶯歌區文化路395號",
       "county": "新北市",
@@ -653,7 +583,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000045",
+      "shelter_id": "SHT_000040",
       "name": "鶯歌國中",
       "address": "鶯歌區尖山埔路108號",
       "county": "新北市",
@@ -667,7 +597,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000046",
+      "shelter_id": "SHT_000041",
       "name": "新昇倉庫",
       "address": "大粗坑11之1號",
       "county": "新北市",
@@ -681,7 +611,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000047",
+      "shelter_id": "SHT_000042",
       "name": "鶯歌國小",
       "address": "鶯歌區尖山埔路106號",
       "county": "新北市",
@@ -695,7 +625,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000048",
+      "shelter_id": "SHT_000043",
       "name": "雙峰國小",
       "address": "新北市新店區北宜路三段66號",
       "county": "新北市",
@@ -709,7 +639,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000049",
+      "shelter_id": "SHT_000044",
       "name": "景文科技大學",
       "address": "新北市新店區安忠路99號",
       "county": "新北市",
@@ -723,7 +653,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000050",
+      "shelter_id": "SHT_000045",
       "name": "雙城國小",
       "address": "台北縣新店市安康路三段322號",
       "county": "新北市",
@@ -737,7 +667,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000051",
+      "shelter_id": "SHT_000046",
       "name": "祖田市民活動中心",
       "address": "中央路4段285號2樓",
       "county": "新北市",
@@ -751,7 +681,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000052",
+      "shelter_id": "SHT_000047",
       "name": "新店國小",
       "address": "新北市新店區新店路2號",
       "county": "新北市",
@@ -765,7 +695,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000053",
+      "shelter_id": "SHT_000048",
       "name": "青潭國小",
       "address": "新北市新店區北宜路二段80號",
       "county": "新北市",
@@ -779,7 +709,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000054",
+      "shelter_id": "SHT_000049",
       "name": "雲海國小",
       "address": "坑內1號",
       "county": "新北市",
@@ -793,7 +723,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000055",
+      "shelter_id": "SHT_000050",
       "name": "達觀國民中小學",
       "address": "僑信路1號",
       "county": "新北市",
@@ -807,7 +737,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000056",
+      "shelter_id": "SHT_000051",
       "name": "雙城活動中心",
       "address": "新北市新店區安康路3段2號5樓",
       "county": "新北市",
@@ -821,7 +751,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000057",
+      "shelter_id": "SHT_000052",
       "name": "柑園國中",
       "address": "柑園街二段125號",
       "county": "新北市",
@@ -835,7 +765,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000058",
+      "shelter_id": "SHT_000053",
       "name": "建國國小",
       "address": "鶯歌區育英街2號",
       "county": "新北市",
@@ -849,7 +779,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000059",
+      "shelter_id": "SHT_000054",
       "name": "樹梅嶺倉庫",
       "address": "樹梅嶺11號",
       "county": "新北市",
@@ -863,7 +793,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000060",
+      "shelter_id": "SHT_000055",
       "name": "昌福國小",
       "address": "鶯歌區永明街22號",
       "county": "新北市",
@@ -877,7 +807,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000061",
+      "shelter_id": "SHT_000056",
       "name": "北鶯里活動中心",
       "address": "仁愛路55號",
       "county": "新北市",
@@ -891,7 +821,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000062",
+      "shelter_id": "SHT_000057",
       "name": "頂埔國小",
       "address": "中央路4段205號",
       "county": "新北市",
@@ -905,7 +835,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000063",
+      "shelter_id": "SHT_000058",
       "name": "柑園國小",
       "address": "柑園街一段353號",
       "county": "新北市",
@@ -919,7 +849,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000064",
+      "shelter_id": "SHT_000059",
       "name": "文山國中",
       "address": "新北市新店區文中路38號",
       "county": "新北市",
@@ -933,7 +863,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000065",
+      "shelter_id": "SHT_000060",
       "name": "能仁家商",
       "address": "新北市新店區文中路53巷10號",
       "county": "新北市",
@@ -947,7 +877,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000066",
+      "shelter_id": "SHT_000061",
       "name": "西鶯里活動中心",
       "address": "中正一路203號",
       "county": "新北市",
@@ -961,7 +891,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000067",
+      "shelter_id": "SHT_000062",
       "name": "文中廣明活動中心",
       "address": "新北市新店區北宜路一段39巷32號",
       "county": "新北市",
@@ -975,7 +905,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000068",
+      "shelter_id": "SHT_000063",
       "name": "永吉國小",
       "address": "鶯歌區德昌二街2號",
       "county": "新北市",
@@ -989,7 +919,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000069",
+      "shelter_id": "SHT_000064",
       "name": "頂埔市民活動中心",
       "address": "中央路4段55-12號",
       "county": "新北市",
@@ -1003,7 +933,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000070",
+      "shelter_id": "SHT_000065",
       "name": "新北市坪林區坪林國小漁光校區",
       "address": "大舌湖35號",
       "county": "新北市",
@@ -1017,7 +947,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000071",
+      "shelter_id": "SHT_000066",
       "name": "頂城市民活動中心",
       "address": "新北市新店區安康路一段9-1號",
       "county": "新北市",
@@ -1031,7 +961,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000072",
+      "shelter_id": "SHT_000067",
       "name": "永寧市民活動中心",
       "address": "永寧路32巷10弄10號",
       "county": "新北市",
@@ -1045,7 +975,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000073",
+      "shelter_id": "SHT_000068",
       "name": "安坑國小",
       "address": "新北市新店區安忠路36號",
       "county": "新北市",
@@ -1059,7 +989,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000074",
+      "shelter_id": "SHT_000069",
       "name": "土城國中",
       "address": "永寧路18號",
       "county": "新北市",
@@ -1073,7 +1003,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000075",
+      "shelter_id": "SHT_000070",
       "name": "沛陂市民活動中心",
       "address": "三民路23巷8弄9號",
       "county": "新北市",
@@ -1087,7 +1017,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000076",
+      "shelter_id": "SHT_000071",
       "name": "及人高中",
       "address": "新北市新店區安興路1號",
       "county": "新北市",
@@ -1101,7 +1031,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000077",
+      "shelter_id": "SHT_000072",
       "name": "五峰國中",
       "address": "新北市新店區中興路一段253號",
       "county": "新北市",
@@ -1115,7 +1045,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000078",
+      "shelter_id": "SHT_000073",
       "name": "鳳鳴國中",
       "address": "鶯歌區永和街33號",
       "county": "新北市",
@@ -1129,7 +1059,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000079",
+      "shelter_id": "SHT_000074",
       "name": "安康高中",
       "address": "新北市新店區安興路25號",
       "county": "新北市",
@@ -1143,7 +1073,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000080",
+      "shelter_id": "SHT_000075",
       "name": "鳳鳴國小",
       "address": "鶯歌區永和街120號",
       "county": "新北市",
@@ -1157,7 +1087,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000081",
+      "shelter_id": "SHT_000076",
       "name": "育德國小",
       "address": "佳園路一段34號",
       "county": "新北市",
@@ -1171,7 +1101,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000082",
+      "shelter_id": "SHT_000077",
       "name": "中正國小",
       "address": "新北市新店區三民路３６號",
       "county": "新北市",
@@ -1185,7 +1115,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000083",
+      "shelter_id": "SHT_000078",
       "name": "崇光女中",
       "address": "新北市新店區三民路18號",
       "county": "新北市",
@@ -1199,7 +1129,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000084",
+      "shelter_id": "SHT_000079",
       "name": "土城國小",
       "address": "興城路17號",
       "county": "新北市",
@@ -1213,7 +1143,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000085",
+      "shelter_id": "SHT_000080",
       "name": "土城區公所",
       "address": "金城路1段101號7樓",
       "county": "新北市",
@@ -1227,7 +1157,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000086",
+      "shelter_id": "SHT_000081",
       "name": "泰平里活動中心",
       "address": "溪尾寮46號",
       "county": "新北市",
@@ -1241,7 +1171,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000087",
+      "shelter_id": "SHT_000082",
       "name": "山佳市民活動中心",
       "address": "中山路三段40號2樓",
       "county": "新北市",
@@ -1255,7 +1185,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000088",
+      "shelter_id": "SHT_000083",
       "name": "中湖里活動中心",
       "address": "中湖街25號",
       "county": "新北市",
@@ -1269,21 +1199,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000089",
-      "name": "中湖國小",
-      "address": "中湖街25號",
-      "county": "新北市",
-      "district": "新北市鶯歌區",
-      "capacity": 465,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.3481,
-        "latitude": 24.973
-      }
-    },
-    {
-      "shelter_id": "SHT_000090",
+      "shelter_id": "SHT_000084",
       "name": "北新國小　",
       "address": "新北市新店區寶橋路8號",
       "county": "新北市",
@@ -1297,7 +1213,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000091",
+      "shelter_id": "SHT_000085",
       "name": "清化市民活動中心",
       "address": "青雲路368號4樓",
       "county": "新北市",
@@ -1311,21 +1227,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000092",
-      "name": "清和市民活動中心",
-      "address": "青雲路368號1樓",
-      "county": "新北市",
-      "district": "新北市土城區",
-      "capacity": 30,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.458661,
-        "latitude": 24.973802
-      }
-    },
-    {
-      "shelter_id": "SHT_000093",
+      "shelter_id": "SHT_000086",
       "name": "樂山市民活動中心",
       "address": "中和街38號3樓",
       "county": "新北市",
@@ -1339,7 +1241,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000094",
+      "shelter_id": "SHT_000087",
       "name": "新店高中",
       "address": "新北市新店區中央路93號",
       "county": "新北市",
@@ -1353,7 +1255,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000095",
+      "shelter_id": "SHT_000088",
       "name": "山佳國小",
       "address": "中山路三段5號",
       "county": "新北市",
@@ -1367,7 +1269,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000096",
+      "shelter_id": "SHT_000089",
       "name": "耕莘健康管理專科學校",
       "address": "新北市新店區民族路112號",
       "county": "新北市",
@@ -1381,7 +1283,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000097",
+      "shelter_id": "SHT_000090",
       "name": "指南國小",
       "address": "文山區指南路3段38巷5-2號",
       "county": "臺北市",
@@ -1395,7 +1297,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000098",
+      "shelter_id": "SHT_000091",
       "name": "大豐社福館",
       "address": "新北市新店區民族路110號",
       "county": "新北市",
@@ -1409,7 +1311,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000099",
+      "shelter_id": "SHT_000092",
       "name": "大豐國小",
       "address": "新北市新店區23143民族路108號",
       "county": "新北市",
@@ -1423,7 +1325,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000100",
+      "shelter_id": "SHT_000093",
       "name": "員林市民活動中心",
       "address": "員林街15號1樓",
       "county": "新北市",
@@ -1437,7 +1339,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000101",
+      "shelter_id": "SHT_000094",
       "name": "竹林中學",
       "address": "中和區華新街143巷12號",
       "county": "新北市",
@@ -1451,7 +1353,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000102",
+      "shelter_id": "SHT_000095",
       "name": "開明工商",
       "address": "新北市新店區寶中路49號",
       "county": "新北市",
@@ -1465,7 +1367,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000103",
+      "shelter_id": "SHT_000096",
       "name": "華梵大學于藝館3樓",
       "address": "華梵路1號",
       "county": "新北市",
@@ -1479,7 +1381,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000104",
+      "shelter_id": "SHT_000097",
       "name": "青山市民活動中心",
       "address": "明德路1段74-1號1樓",
       "county": "新北市",
@@ -1493,21 +1395,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000105",
-      "name": "永富市民活動中心",
-      "address": "明德路1段74-1號2樓",
-      "county": "新北市",
-      "district": "新北市土城區",
-      "capacity": 25,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.464447,
-        "latitude": 24.98031
-      }
-    },
-    {
-      "shelter_id": "SHT_000106",
+      "shelter_id": "SHT_000098",
       "name": "景美女中",
       "address": "文山區木新路3段312號",
       "county": "臺北市",
@@ -1521,7 +1409,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000107",
+      "shelter_id": "SHT_000099",
       "name": "廷寮市民活動中心",
       "address": "永豐路240-1號",
       "county": "新北市",
@@ -1535,7 +1423,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000108",
+      "shelter_id": "SHT_000100",
       "name": "南強工商",
       "address": "新北市新店區文化路42號",
       "county": "新北市",
@@ -1549,7 +1437,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000109",
+      "shelter_id": "SHT_000101",
       "name": "力行國小",
       "address": "文山區木新路3段155巷7號",
       "county": "臺北市",
@@ -1563,7 +1451,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000110",
+      "shelter_id": "SHT_000102",
       "name": "大同國小",
       "address": "大同街43號",
       "county": "新北市",
@@ -1577,7 +1465,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000111",
+      "shelter_id": "SHT_000103",
       "name": "東陽市民活動中心",
       "address": "鎮前街467號",
       "county": "新北市",
@@ -1591,7 +1479,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000112",
+      "shelter_id": "SHT_000104",
       "name": "彭福國小",
       "address": "忠孝街30號",
       "county": "新北市",
@@ -1605,7 +1493,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000113",
+      "shelter_id": "SHT_000105",
       "name": "清水高中",
       "address": "明德路1段72號",
       "county": "新北市",
@@ -1619,7 +1507,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000114",
+      "shelter_id": "SHT_000106",
       "name": "華夏科技大學",
       "address": "中和區工專路111號",
       "county": "新北市",
@@ -1633,7 +1521,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000115",
+      "shelter_id": "SHT_000107",
       "name": "青雲,柑林市民活動中心",
       "address": "清水路141巷18號B1",
       "county": "新北市",
@@ -1647,7 +1535,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000116",
+      "shelter_id": "SHT_000108",
       "name": "裕德高中",
       "address": "擺接堡路1號",
       "county": "新北市",
@@ -1661,7 +1549,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000117",
+      "shelter_id": "SHT_000109",
       "name": "新北高工",
       "address": "學府路1段241號",
       "county": "新北市",
@@ -1675,7 +1563,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000118",
+      "shelter_id": "SHT_000110",
       "name": "實踐國中",
       "address": "文山區辛亥路7段67號",
       "county": "臺北市",
@@ -1689,7 +1577,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000119",
+      "shelter_id": "SHT_000111",
       "name": "中正國中",
       "address": "金城路2段247號",
       "county": "新北市",
@@ -1703,7 +1591,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000120",
+      "shelter_id": "SHT_000112",
       "name": "樹林高級中學",
       "address": "中華路8號",
       "county": "新北市",
@@ -1717,7 +1605,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000121",
+      "shelter_id": "SHT_000113",
       "name": "實踐國小",
       "address": "文山區忠順街1段4號",
       "county": "臺北市",
@@ -1731,7 +1619,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000122",
+      "shelter_id": "SHT_000114",
       "name": "東昇市民活動中心",
       "address": "中山路二段80號2樓",
       "county": "新北市",
@@ -1745,7 +1633,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000123",
+      "shelter_id": "SHT_000115",
       "name": "清水國小",
       "address": "金城路2段356號",
       "county": "新北市",
@@ -1759,7 +1647,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000124",
+      "shelter_id": "SHT_000116",
       "name": "新和國小",
       "address": "新店市安和路三段100號",
       "county": "新北市",
@@ -1773,7 +1661,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000125",
+      "shelter_id": "SHT_000117",
       "name": "北政國中",
       "address": "臺北市文山區指南路3段2巷14號",
       "county": "臺北市",
@@ -1787,7 +1675,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000126",
+      "shelter_id": "SHT_000118",
       "name": "樂利國小",
       "address": "裕生路65號",
       "county": "新北市",
@@ -1801,7 +1689,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000127",
+      "shelter_id": "SHT_000119",
       "name": "莊敬工家",
       "address": "新北市新店區民生路45號",
       "county": "新北市",
@@ -1815,7 +1703,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000128",
+      "shelter_id": "SHT_000120",
       "name": "廣興市民活動中心",
       "address": "學府路一段99巷底2樓",
       "county": "新北市",
@@ -1829,21 +1717,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000129",
-      "name": "廣福市民活動中心",
-      "address": "學府路一段99巷底1樓",
-      "county": "新北市",
-      "district": "新北市土城區",
-      "capacity": 50,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.457766,
-        "latitude": 24.985909
-      }
-    },
-    {
-      "shelter_id": "SHT_000130",
+      "shelter_id": "SHT_000121",
       "name": "育林國小",
       "address": "復興路395號",
       "county": "新北市",
@@ -1857,21 +1731,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000131",
-      "name": "育林國中",
-      "address": "復興路395號",
-      "county": "新北市",
-      "district": "新北市樹林區",
-      "capacity": 574,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.415677,
-        "latitude": 24.986051
-      }
-    },
-    {
-      "shelter_id": "SHT_000132",
+      "shelter_id": "SHT_000122",
       "name": "中和國中",
       "address": "中和區興南路2段3巷17號",
       "county": "新北市",
@@ -1885,7 +1745,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000133",
+      "shelter_id": "SHT_000123",
       "name": "興南國小",
       "address": "中和區興南路1段135巷24號",
       "county": "新北市",
@@ -1899,7 +1759,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000134",
+      "shelter_id": "SHT_000124",
       "name": "廣福國小",
       "address": "學府路1段127號",
       "county": "新北市",
@@ -1913,7 +1773,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000135",
+      "shelter_id": "SHT_000125",
       "name": "溪洲國小",
       "address": "金門街289號",
       "county": "新北市",
@@ -1927,7 +1787,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000136",
+      "shelter_id": "SHT_000126",
       "name": "明道國小",
       "address": "文山區木柵路2段138巷61號",
       "county": "臺北市",
@@ -1941,7 +1801,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000137",
+      "shelter_id": "SHT_000127",
       "name": "木柵國中",
       "address": "文山區木柵路3段102巷12號",
       "county": "臺北市",
@@ -1955,7 +1815,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000138",
+      "shelter_id": "SHT_000128",
       "name": "永建國小",
       "address": "文山區試院路2號",
       "county": "臺北市",
@@ -1969,7 +1829,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000139",
+      "shelter_id": "SHT_000129",
       "name": "安和國小",
       "address": "延和路23號",
       "county": "新北市",
@@ -1983,7 +1843,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000140",
+      "shelter_id": "SHT_000130",
       "name": "景新國小",
       "address": "中和區景新街467巷37號",
       "county": "新北市",
@@ -1997,7 +1857,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000141",
+      "shelter_id": "SHT_000131",
       "name": "景美國小",
       "address": "文山區景文街108號",
       "county": "臺北市",
@@ -2011,7 +1871,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000142",
+      "shelter_id": "SHT_000132",
       "name": "復興國小",
       "address": "中和區復興路301巷6號",
       "county": "新北市",
@@ -2025,7 +1885,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000143",
+      "shelter_id": "SHT_000133",
       "name": "行政中心大禮堂",
       "address": "臺北市木柵路3段220號10樓",
       "county": "臺北市",
@@ -2039,7 +1899,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000144",
+      "shelter_id": "SHT_000134",
       "name": "沙崙國小",
       "address": "篤行路二段132號",
       "county": "新北市",
@@ -2053,7 +1913,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000145",
+      "shelter_id": "SHT_000135",
       "name": "復興大樓圖書館",
       "address": "南山路236號6樓",
       "county": "新北市",
@@ -2067,7 +1927,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000146",
+      "shelter_id": "SHT_000136",
       "name": "樹林區公所",
       "address": "鎮前街93號",
       "county": "新北市",
@@ -2081,7 +1941,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000147",
+      "shelter_id": "SHT_000137",
       "name": "樹林國小",
       "address": "育英街176號",
       "county": "新北市",
@@ -2095,7 +1955,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000148",
+      "shelter_id": "SHT_000138",
       "name": "錦和國小",
       "address": "中和區圓通路292號",
       "county": "新北市",
@@ -2109,7 +1969,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000149",
+      "shelter_id": "SHT_000139",
       "name": "木柵國小",
       "address": "文山區木柵路3段191號",
       "county": "臺北市",
@@ -2123,7 +1983,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000150",
+      "shelter_id": "SHT_000140",
       "name": "石碇國小",
       "address": "石碇西街15號",
       "county": "新北市",
@@ -2137,7 +1997,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000151",
+      "shelter_id": "SHT_000141",
       "name": "萬興國小",
       "address": "文山區秀明路2段114號",
       "county": "臺北市",
@@ -2151,7 +2011,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000152",
+      "shelter_id": "SHT_000142",
       "name": "信義國小",
       "address": "四川路二段245巷60號",
       "county": "新北市",
@@ -2165,7 +2025,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000153",
+      "shelter_id": "SHT_000143",
       "name": "錦和中學",
       "address": "中和區錦和路163號",
       "county": "新北市",
@@ -2179,7 +2039,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000154",
+      "shelter_id": "SHT_000144",
       "name": "景美國中",
       "address": "文山區景中街27號",
       "county": "臺北市",
@@ -2193,7 +2053,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000155",
+      "shelter_id": "SHT_000145",
       "name": "中和高中",
       "address": "中和區連城路460號",
       "county": "新北市",
@@ -2207,7 +2067,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000156",
+      "shelter_id": "SHT_000146",
       "name": "溪口國小",
       "address": "文山區景福街225號",
       "county": "臺北市",
@@ -2221,7 +2081,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000157",
+      "shelter_id": "SHT_000147",
       "name": "秀山國小",
       "address": "中和區立人街2號",
       "county": "新北市",
@@ -2235,7 +2095,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000158",
+      "shelter_id": "SHT_000148",
       "name": "重慶國小",
       "address": "廣和街31號",
       "county": "新北市",
@@ -2249,7 +2109,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000159",
+      "shelter_id": "SHT_000149",
       "name": "景華公園",
       "address": "臺北市文山區景興路與景華街交叉口",
       "county": "臺北市",
@@ -2263,7 +2123,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000160",
+      "shelter_id": "SHT_000150",
       "name": "智光商工",
       "address": "永和區智光里中正路100號",
       "county": "新北市",
@@ -2277,7 +2137,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000161",
+      "shelter_id": "SHT_000151",
       "name": "木柵高工",
       "address": "文山區木柵路4段77號",
       "county": "臺北市",
@@ -2291,7 +2151,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000162",
+      "shelter_id": "SHT_000152",
       "name": "景興國小",
       "address": "文山區景華街150巷21號",
       "county": "臺北市",
@@ -2305,7 +2165,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000163",
+      "shelter_id": "SHT_000153",
       "name": "景興國中",
       "address": "文山區景興路46巷2號",
       "county": "臺北市",
@@ -2319,21 +2179,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000164",
-      "name": "臺北市文山運動中心",
-      "address": "興隆路三段222號",
-      "county": "臺北市",
-      "district": "臺北市文山區",
-      "capacity": 189,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5443,
-        "latitude": 24.9962
-      }
-    },
-    {
-      "shelter_id": "SHT_000165",
+      "shelter_id": "SHT_000154",
       "name": "文林國小",
       "address": "千歲街59號",
       "county": "新北市",
@@ -2347,7 +2193,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000166",
+      "shelter_id": "SHT_000155",
       "name": "民權市民活動中心",
       "address": "永和區民族里民權路60號",
       "county": "新北市",
@@ -2361,7 +2207,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000167",
+      "shelter_id": "SHT_000156",
       "name": "重慶國中",
       "address": "國慶路221號",
       "county": "新北市",
@@ -2375,7 +2221,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000168",
+      "shelter_id": "SHT_000157",
       "name": "中和區公所",
       "address": "中和區景平路634之2號",
       "county": "新北市",
@@ -2389,7 +2235,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000169",
+      "shelter_id": "SHT_000158",
       "name": "阿柔市民活動中心",
       "address": "阿柔里阿柔洋62號",
       "county": "新北市",
@@ -2403,7 +2249,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000170",
+      "shelter_id": "SHT_000159",
       "name": "溪崑國中",
       "address": "大觀路三段50巷30號",
       "county": "新北市",
@@ -2417,7 +2263,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000171",
+      "shelter_id": "SHT_000160",
       "name": "自強國小",
       "address": "中和區莒光路200號",
       "county": "新北市",
@@ -2431,7 +2277,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000172",
+      "shelter_id": "SHT_000161",
       "name": "志清國小",
       "address": "文山區景福街21巷5號",
       "county": "臺北市",
@@ -2445,7 +2291,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000173",
+      "shelter_id": "SHT_000162",
       "name": "自強國中",
       "address": "中和區莒光路191號",
       "county": "新北市",
@@ -2459,7 +2305,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000174",
+      "shelter_id": "SHT_000163",
       "name": "興華國小",
       "address": "臺北市文山區興隆路3段125巷6號",
       "county": "臺北市",
@@ -2473,7 +2319,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000175",
+      "shelter_id": "SHT_000164",
       "name": "積穗國小",
       "address": "中和區員山路154號",
       "county": "新北市",
@@ -2487,7 +2333,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000176",
+      "shelter_id": "SHT_000165",
       "name": "秀朗國小",
       "address": "永和區民權里得和路202號",
       "county": "新北市",
@@ -2501,7 +2347,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000177",
+      "shelter_id": "SHT_000166",
       "name": "中和國小",
       "address": "中和區中和路100號",
       "county": "新北市",
@@ -2515,7 +2361,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000178",
+      "shelter_id": "SHT_000167",
       "name": "士東國小",
       "address": "中山北路六段392號",
       "county": "臺北市",
@@ -2529,7 +2375,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000179",
+      "shelter_id": "SHT_000168",
       "name": "積穗國中",
       "address": "中和區民安街66號",
       "county": "新北市",
@@ -2543,7 +2389,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000180",
+      "shelter_id": "SHT_000169",
       "name": "萬芳高中",
       "address": "文山區興隆路3段115巷1號",
       "county": "臺北市",
@@ -2557,7 +2403,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000181",
+      "shelter_id": "SHT_000170",
       "name": "萬順市民活動中心",
       "address": "萬順里北深路3段107巷26號",
       "county": "新北市",
@@ -2571,7 +2417,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000182",
+      "shelter_id": "SHT_000171",
       "name": "鶴齡交誼中心",
       "address": "廟美街6巷3號2、4樓",
       "county": "新北市",
@@ -2585,7 +2431,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000183",
+      "shelter_id": "SHT_000172",
       "name": "南山高中",
       "address": "中和區廣福路41號",
       "county": "新北市",
@@ -2599,7 +2445,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000184",
+      "shelter_id": "SHT_000173",
       "name": "興德國小",
       "address": "文山區興隆路2段235號",
       "county": "臺北市",
@@ -2613,7 +2459,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000185",
+      "shelter_id": "SHT_000174",
       "name": "深坑國中",
       "address": "深坑里文化路41號",
       "county": "新北市",
@@ -2627,7 +2473,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000186",
+      "shelter_id": "SHT_000175",
       "name": "深坑國小",
       "address": "深坑里文化路45號",
       "county": "新北市",
@@ -2641,7 +2487,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000187",
+      "shelter_id": "SHT_000176",
       "name": "萬芳國小",
       "address": "文山區萬和街1號",
       "county": "臺北市",
@@ -2655,7 +2501,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000188",
+      "shelter_id": "SHT_000177",
       "name": "武林國小",
       "address": "保安街二段151號",
       "county": "新北市",
@@ -2669,7 +2515,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000189",
+      "shelter_id": "SHT_000178",
       "name": "博嘉國小",
       "address": "文山區木柵路4段159巷14之1號",
       "county": "臺北市",
@@ -2683,7 +2529,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000190",
+      "shelter_id": "SHT_000179",
       "name": "中山國小",
       "address": "大觀路二段59巷31號",
       "county": "新北市",
@@ -2697,7 +2543,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000191",
+      "shelter_id": "SHT_000180",
       "name": "興隆國小",
       "address": "文山區福興路2號",
       "county": "臺北市",
@@ -2711,7 +2557,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000192",
+      "shelter_id": "SHT_000181",
       "name": "深坑市民活動中心",
       "address": "深坑里北深路2段166號",
       "county": "新北市",
@@ -2725,7 +2571,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000193",
+      "shelter_id": "SHT_000182",
       "name": "深坑區公所",
       "address": "深坑里深坑街10號",
       "county": "新北市",
@@ -2739,7 +2585,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000194",
+      "shelter_id": "SHT_000183",
       "name": "漳和國中",
       "address": "中和區廣福路39號",
       "county": "新北市",
@@ -2753,7 +2599,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000195",
+      "shelter_id": "SHT_000184",
       "name": "興德里營區",
       "address": "興德路55號",
       "county": "臺北市",
@@ -2767,7 +2613,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000196",
+      "shelter_id": "SHT_000185",
       "name": "後埔國小",
       "address": "重慶路157號",
       "county": "新北市",
@@ -2781,7 +2627,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000197",
+      "shelter_id": "SHT_000186",
       "name": "復興商工",
       "address": "永和區得和里秀朗路一段201號",
       "county": "新北市",
@@ -2795,7 +2641,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000198",
+      "shelter_id": "SHT_000187",
       "name": "永和國小",
       "address": "永和區潭墘里秀朗路一段120號",
       "county": "新北市",
@@ -2809,7 +2655,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000199",
+      "shelter_id": "SHT_000188",
       "name": "武功國小",
       "address": "臺北市文山區興隆路1段68號",
       "county": "臺北市",
@@ -2823,7 +2669,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000200",
+      "shelter_id": "SHT_000189",
       "name": "福和國中",
       "address": "永和區秀和里永利路71號",
       "county": "新北市",
@@ -2837,7 +2683,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000201",
+      "shelter_id": "SHT_000190",
       "name": "東南科技大學",
       "address": "萬福里北深路3段152號",
       "county": "新北市",
@@ -2851,7 +2697,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000202",
+      "shelter_id": "SHT_000191",
       "name": "忠孝國中",
       "address": "成都街30號",
       "county": "新北市",
@@ -2865,7 +2711,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000203",
+      "shelter_id": "SHT_000192",
       "name": "萬福國小",
       "address": "文山區羅斯福路5段170巷32號",
       "county": "臺北市",
@@ -2879,7 +2725,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000204",
+      "shelter_id": "SHT_000193",
       "name": "興福國中",
       "address": "文山區福興路80號",
       "county": "臺北市",
@@ -2893,7 +2739,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000205",
+      "shelter_id": "SHT_000194",
       "name": "昇高市民活動中心",
       "address": "昇高里旺耽路25號",
       "county": "新北市",
@@ -2907,7 +2753,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000206",
+      "shelter_id": "SHT_000195",
       "name": "實踐國小",
       "address": "實踐路93巷51號",
       "county": "新北市",
@@ -2921,7 +2767,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000207",
+      "shelter_id": "SHT_000196",
       "name": "東勢市民活動中心",
       "address": "竿蓁林62-1號",
       "county": "新北市",
@@ -2935,21 +2781,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000208",
-      "name": "嶺腳市民活動中心",
-      "address": "嶺腳寮14號",
-      "county": "新北市",
-      "district": "新北市平溪區",
-      "capacity": 47,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.7508,
-        "latitude": 25.0052
-      }
-    },
-    {
-      "shelter_id": "SHT_000209",
+      "shelter_id": "SHT_000197",
       "name": "直潭派出所",
       "address": "新北市新店區直潭十街2號",
       "county": "新北市",
@@ -2963,7 +2795,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000210",
+      "shelter_id": "SHT_000198",
       "name": "山北市民活動中心",
       "address": "莊敬路49巷29弄2號",
       "county": "新北市",
@@ -2977,7 +2809,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000211",
+      "shelter_id": "SHT_000199",
       "name": "辛亥國小",
       "address": "文山區辛亥路4段103號",
       "county": "臺北市",
@@ -2991,7 +2823,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000212",
+      "shelter_id": "SHT_000200",
       "name": "三多國中",
       "address": "三多路101號",
       "county": "新北市",
@@ -3005,7 +2837,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000213",
+      "shelter_id": "SHT_000201",
       "name": "永和國中",
       "address": "永和區秀和里國中路111號",
       "county": "新北市",
@@ -3019,7 +2851,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000214",
+      "shelter_id": "SHT_000202",
       "name": "育才國小",
       "address": "永和區永貞里福和路125巷20號",
       "county": "新北市",
@@ -3033,7 +2865,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000215",
+      "shelter_id": "SHT_000203",
       "name": "永定國小",
       "address": "靜安路一段245號",
       "county": "新北市",
@@ -3047,7 +2879,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000216",
+      "shelter_id": "SHT_000204",
       "name": "永平國小",
       "address": "永和區保安里保生路25號",
       "county": "新北市",
@@ -3061,7 +2893,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000217",
+      "shelter_id": "SHT_000205",
       "name": "大觀國小",
       "address": "大觀路一段30號",
       "county": "新北市",
@@ -3075,7 +2907,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000218",
+      "shelter_id": "SHT_000206",
       "name": "土庫第1市民活動中心",
       "address": "土庫里北深路1段83巷8弄36號",
       "county": "新北市",
@@ -3089,7 +2921,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000219",
+      "shelter_id": "SHT_000207",
       "name": "石碇綜合活動大樓",
       "address": "楓子林32-1號",
       "county": "新北市",
@@ -3103,7 +2935,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000220",
+      "shelter_id": "SHT_000208",
       "name": "海山高中",
       "address": "漢生東路215號",
       "county": "新北市",
@@ -3117,7 +2949,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000221",
+      "shelter_id": "SHT_000209",
       "name": "板橋國小",
       "address": "文化路一段23號",
       "county": "新北市",
@@ -3131,7 +2963,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000222",
+      "shelter_id": "SHT_000210",
       "name": "永平高中",
       "address": "永和區保安里永平路205號",
       "county": "新北市",
@@ -3145,7 +2977,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000223",
+      "shelter_id": "SHT_000211",
       "name": "大觀國中",
       "address": "僑中一街1號",
       "county": "新北市",
@@ -3159,7 +2991,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000224",
+      "shelter_id": "SHT_000212",
       "name": "民族國中",
       "address": "大安區羅斯福路4段113巷13號",
       "county": "臺北市",
@@ -3173,21 +3005,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000225",
-      "name": "臺北市大安運動中心",
-      "address": "辛亥路三段55號",
-      "county": "臺北市",
-      "district": "臺北市大安區",
-      "capacity": 389,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5388,
-        "latitude": 25.0112
-      }
-    },
-    {
-      "shelter_id": "SHT_000226",
+      "shelter_id": "SHT_000213",
       "name": "板橋高中",
       "address": "文化路一段25號",
       "county": "新北市",
@@ -3201,7 +3019,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000227",
+      "shelter_id": "SHT_000214",
       "name": "公館國小",
       "address": "臺北市大安區基隆路4段41巷68弄2號",
       "county": "臺北市",
@@ -3215,7 +3033,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000228",
+      "shelter_id": "SHT_000215",
       "name": "石碇高中",
       "address": "八分寮45號",
       "county": "新北市",
@@ -3229,7 +3047,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000229",
+      "shelter_id": "SHT_000216",
       "name": "網溪國小",
       "address": "永和區上林里竹林路79號",
       "county": "新北市",
@@ -3243,7 +3061,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000230",
+      "shelter_id": "SHT_000217",
       "name": "民生公園市民活動中心",
       "address": "民生路一段30之1號",
       "county": "新北市",
@@ -3257,7 +3075,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000231",
+      "shelter_id": "SHT_000218",
       "name": "臺北市中正運動中心",
       "address": "信義路一段1號",
       "county": "臺北市",
@@ -3271,7 +3089,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000232",
+      "shelter_id": "SHT_000219",
       "name": "銘傳國小",
       "address": "大安區羅斯福路4段21號",
       "county": "臺北市",
@@ -3285,7 +3103,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000233",
+      "shelter_id": "SHT_000220",
       "name": "竹林小學",
       "address": "永和區勵行里竹林路34號",
       "county": "新北市",
@@ -3299,7 +3117,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000234",
+      "shelter_id": "SHT_000221",
       "name": "光復國小",
       "address": "中和區光環路2段1號",
       "county": "新北市",
@@ -3313,7 +3131,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000235",
+      "shelter_id": "SHT_000222",
       "name": "柑林國小",
       "address": "9鄰柑腳3號",
       "county": "新北市",
@@ -3327,7 +3145,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000236",
+      "shelter_id": "SHT_000223",
       "name": "虎子山",
       "address": "虎子山街",
       "county": "新北市",
@@ -3341,7 +3159,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000237",
+      "shelter_id": "SHT_000224",
       "name": "頂溪國小",
       "address": "永和區文化里文化路133號",
       "county": "新北市",
@@ -3355,7 +3173,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000238",
+      "shelter_id": "SHT_000225",
       "name": "及人國小",
       "address": "永和區新?里文化路172號",
       "county": "新北市",
@@ -3369,7 +3187,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000239",
+      "shelter_id": "SHT_000226",
       "name": "長源社區活動中心",
       "address": "柑腳19號",
       "county": "新北市",
@@ -3383,7 +3201,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000240",
+      "shelter_id": "SHT_000227",
       "name": "金甌女中",
       "address": "永和區復興里博愛街36號",
       "county": "新北市",
@@ -3397,7 +3215,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000241",
+      "shelter_id": "SHT_000228",
       "name": "福連國小",
       "address": "福連街1號",
       "county": "新北市",
@@ -3411,7 +3229,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000242",
+      "shelter_id": "SHT_000229",
       "name": "貢寮國中",
       "address": "嵩陽路42號",
       "county": "新北市",
@@ -3425,7 +3243,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000243",
+      "shelter_id": "SHT_000230",
       "name": "三多國小",
       "address": "三福街52號",
       "county": "新北市",
@@ -3439,7 +3257,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000244",
+      "shelter_id": "SHT_000231",
       "name": "光復高中",
       "address": "光環路一段7號",
       "county": "新北市",
@@ -3453,7 +3271,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000245",
+      "shelter_id": "SHT_000232",
       "name": "忠孝市民活動中心",
       "address": "忠孝街26巷8號",
       "county": "新北市",
@@ -3467,7 +3285,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000246",
+      "shelter_id": "SHT_000233",
       "name": "福隆國小",
       "address": "東興街35號",
       "county": "新北市",
@@ -3481,7 +3299,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000247",
+      "shelter_id": "SHT_000234",
       "name": "丹鳳國小",
       "address": "新北大道七段437號",
       "county": "新北市",
@@ -3495,7 +3313,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000248",
+      "shelter_id": "SHT_000235",
       "name": "光復國小",
       "address": "中和區中原里光環路二段1號",
       "county": "新北市",
@@ -3509,7 +3327,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000249",
+      "shelter_id": "SHT_000236",
       "name": "靈鷲山無生道場",
       "address": "香蘭街7-1號",
       "county": "新北市",
@@ -3523,7 +3341,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000250",
+      "shelter_id": "SHT_000237",
       "name": "埔墘國小",
       "address": "永豐街42之8號",
       "county": "新北市",
@@ -3537,7 +3355,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000251",
+      "shelter_id": "SHT_000238",
       "name": "福隆青少年活動中心",
       "address": "福隆里福隆街60號",
       "county": "新北市",
@@ -3551,7 +3369,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000252",
+      "shelter_id": "SHT_000239",
       "name": "中山國中",
       "address": "文化路一段188巷56號",
       "county": "新北市",
@@ -3565,7 +3383,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000253",
+      "shelter_id": "SHT_000240",
       "name": "外柑市民活動中心",
       "address": "外柑腳49號",
       "county": "新北市",
@@ -3579,7 +3397,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000254",
+      "shelter_id": "SHT_000241",
       "name": "芳和國中",
       "address": "臺北市大安區臥龍街170號",
       "county": "臺北市",
@@ -3593,7 +3411,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000255",
+      "shelter_id": "SHT_000242",
       "name": "螢橋國中",
       "address": "中正區汀州路3段四號",
       "county": "臺北市",
@@ -3607,7 +3425,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000256",
+      "shelter_id": "SHT_000243",
       "name": "國光國小",
       "address": "中正路325巷30號",
       "county": "新北市",
@@ -3621,7 +3439,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000257",
+      "shelter_id": "SHT_000244",
       "name": "大安國小",
       "address": "臺北市大安區臥龍街129號",
       "county": "臺北市",
@@ -3635,7 +3453,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000258",
+      "shelter_id": "SHT_000245",
       "name": "和平高中",
       "address": "大安區臥龍街100號",
       "county": "臺北市",
@@ -3649,7 +3467,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000259",
+      "shelter_id": "SHT_000246",
       "name": "板橋莊敬市民活動中心",
       "address": "民生路二段120號",
       "county": "新北市",
@@ -3663,7 +3481,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000260",
+      "shelter_id": "SHT_000247",
       "name": "貢寮市民活動中心",
       "address": "長泰路18-2號",
       "county": "新北市",
@@ -3677,7 +3495,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000261",
+      "shelter_id": "SHT_000248",
       "name": "古亭國小",
       "address": "大安區羅斯福路3段",
       "county": "臺北市",
@@ -3691,7 +3509,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000262",
+      "shelter_id": "SHT_000249",
       "name": "四維市民活動中心",
       "address": "四維路186巷2號",
       "county": "新北市",
@@ -3705,7 +3523,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000263",
+      "shelter_id": "SHT_000250",
       "name": "裕民行政大樓",
       "address": "裕民路136號",
       "county": "新北市",
@@ -3719,7 +3537,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000264",
+      "shelter_id": "SHT_000251",
       "name": "中平國中",
       "address": "中平路385號",
       "county": "新北市",
@@ -3733,7 +3551,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000265",
+      "shelter_id": "SHT_000252",
       "name": "榮富國小",
       "address": "中和街193號",
       "county": "新北市",
@@ -3747,7 +3565,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000266",
+      "shelter_id": "SHT_000253",
       "name": "貢寮國小",
       "address": "學苑街7號",
       "county": "新北市",
@@ -3761,7 +3579,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000267",
+      "shelter_id": "SHT_000254",
       "name": "青年公園",
       "address": "臺北市萬華區水源路199號",
       "county": "臺北市",
@@ -3775,7 +3593,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000268",
+      "shelter_id": "SHT_000255",
       "name": "白石市民活動中心",
       "address": "9鄰靜安路2段241號",
       "county": "新北市",
@@ -3789,7 +3607,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000269",
+      "shelter_id": "SHT_000256",
       "name": "文德國小",
       "address": "英士路179號",
       "county": "新北市",
@@ -3803,7 +3621,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000270",
+      "shelter_id": "SHT_000257",
       "name": "薯榔市民活動中心",
       "address": "靜安路二段63號",
       "county": "新北市",
@@ -3817,7 +3635,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000271",
+      "shelter_id": "SHT_000258",
       "name": "萬大國小",
       "address": "大同區萬大路346號",
       "county": "臺北市",
@@ -3831,7 +3649,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000272",
+      "shelter_id": "SHT_000259",
       "name": "青年公園棒球場",
       "address": "水源路199號",
       "county": "臺北市",
@@ -3845,35 +3663,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000273",
-      "name": "東園國小",
-      "address": "臺北市萬華區東園街195號",
-      "county": "臺北市",
-      "district": "臺北市萬華區",
-      "capacity": 102,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.4978,
-        "latitude": 25.0231
-      }
-    },
-    {
-      "shelter_id": "SHT_000274",
-      "name": "臺北市萬華運動中心",
-      "address": "西寧南路6之1號",
-      "county": "臺北市",
-      "district": "臺北市萬華區",
-      "capacity": 226,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.4978,
-        "latitude": 25.0231
-      }
-    },
-    {
-      "shelter_id": "SHT_000275",
+      "shelter_id": "SHT_000260",
       "name": "河堤國小",
       "address": "中正區汀州路2段180號",
       "county": "臺北市",
@@ -3887,7 +3677,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000276",
+      "shelter_id": "SHT_000261",
       "name": "菁桐市民活動中心",
       "address": "菁桐街65-1號",
       "county": "新北市",
@@ -3901,7 +3691,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000277",
+      "shelter_id": "SHT_000262",
       "name": "平溪國中",
       "address": "靜安路二段295號",
       "county": "新北市",
@@ -3915,7 +3705,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000278",
+      "shelter_id": "SHT_000263",
       "name": "菁桐國小",
       "address": "菁桐街45號",
       "county": "新北市",
@@ -3929,7 +3719,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000279",
+      "shelter_id": "SHT_000264",
       "name": "龍安國小",
       "address": "大安區新生南路3段33號",
       "county": "臺北市",
@@ -3943,7 +3733,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000280",
+      "shelter_id": "SHT_000265",
       "name": "板橋國中",
       "address": "中正路437號",
       "county": "新北市",
@@ -3957,7 +3747,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000281",
+      "shelter_id": "SHT_000266",
       "name": "中港國小",
       "address": "中港一街142號",
       "county": "新北市",
@@ -3971,7 +3761,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000282",
+      "shelter_id": "SHT_000267",
       "name": "昌平國小",
       "address": "昌平街200號",
       "county": "新北市",
@@ -3985,7 +3775,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000283",
+      "shelter_id": "SHT_000268",
       "name": "古亭國中",
       "address": "中正區中華路2段465號",
       "county": "臺北市",
@@ -3999,7 +3789,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000284",
+      "shelter_id": "SHT_000269",
       "name": "平溪市民活動中心",
       "address": "公園街17號2樓",
       "county": "新北市",
@@ -4013,7 +3803,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000285",
+      "shelter_id": "SHT_000270",
       "name": "新埔國中",
       "address": "新海路181號",
       "county": "新北市",
@@ -4027,7 +3817,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000286",
+      "shelter_id": "SHT_000271",
       "name": "螢橋國小",
       "address": "中正區詔安街29號",
       "county": "臺北市",
@@ -4041,7 +3831,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000287",
+      "shelter_id": "SHT_000272",
       "name": "龍門國中",
       "address": "大安區建國南路2段269號",
       "county": "臺北市",
@@ -4055,7 +3845,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000288",
+      "shelter_id": "SHT_000273",
       "name": "新莊國中",
       "address": "中正路211號",
       "county": "新北市",
@@ -4069,7 +3859,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000289",
+      "shelter_id": "SHT_000274",
       "name": "平湖市民活動中心",
       "address": "大湖10號",
       "county": "新北市",
@@ -4083,7 +3873,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000290",
+      "shelter_id": "SHT_000275",
       "name": "豐年市民活動中心",
       "address": "豐年街57號之5",
       "county": "新北市",
@@ -4097,7 +3887,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000291",
+      "shelter_id": "SHT_000276",
       "name": "新和國小",
       "address": "萬華區西藏路125巷31號",
       "county": "臺北市",
@@ -4111,7 +3901,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000292",
+      "shelter_id": "SHT_000277",
       "name": "吳興國小",
       "address": "臺北市信義區松仁路226號",
       "county": "臺北市",
@@ -4125,7 +3915,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000293",
+      "shelter_id": "SHT_000278",
       "name": "莒光國小",
       "address": "莒光路163號",
       "county": "新北市",
@@ -4139,7 +3929,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000294",
+      "shelter_id": "SHT_000279",
       "name": "西園國小",
       "address": "萬華區東園街73巷23號6樓",
       "county": "臺北市",
@@ -4153,7 +3943,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000295",
+      "shelter_id": "SHT_000280",
       "name": "平溪國小",
       "address": "平溪街56號",
       "county": "新北市",
@@ -4167,7 +3957,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000296",
+      "shelter_id": "SHT_000281",
       "name": "昭惠廟",
       "address": "龍門街74-1號",
       "county": "新北市",
@@ -4181,7 +3971,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000297",
+      "shelter_id": "SHT_000282",
       "name": "雙園國中",
       "address": "萬華區興義街2號",
       "county": "臺北市",
@@ -4195,7 +3985,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000298",
+      "shelter_id": "SHT_000283",
       "name": "華江高中",
       "address": "萬華區西藏路213號",
       "county": "臺北市",
@@ -4209,7 +3999,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000299",
+      "shelter_id": "SHT_000284",
       "name": "信義國中",
       "address": "信義區松仁路158巷1號",
       "county": "臺北市",
@@ -4223,7 +4013,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000300",
+      "shelter_id": "SHT_000285",
       "name": "江翠國中",
       "address": "松江街63號",
       "county": "新北市",
@@ -4237,7 +4027,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000301",
+      "shelter_id": "SHT_000286",
       "name": "上林國小",
       "address": "內平林60號",
       "county": "新北市",
@@ -4251,7 +4041,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000302",
+      "shelter_id": "SHT_000287",
       "name": "萬華國中",
       "address": "萬華區西藏路201號",
       "county": "臺北市",
@@ -4265,7 +4055,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000303",
+      "shelter_id": "SHT_000288",
       "name": "牡丹心市民活動中心",
       "address": "雙鳳路75號5樓",
       "county": "新北市",
@@ -4279,7 +4069,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000304",
+      "shelter_id": "SHT_000289",
       "name": "建安國小",
       "address": "大安區大安路2段99號",
       "county": "臺北市",
@@ -4293,7 +4083,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000305",
+      "shelter_id": "SHT_000290",
       "name": "文聖國小",
       "address": "文聖街86號",
       "county": "新北市",
@@ -4307,7 +4097,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000306",
+      "shelter_id": "SHT_000291",
       "name": "忠義國小",
       "address": "中正區中華路2段307巷17號",
       "county": "臺北市",
@@ -4321,7 +4111,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000307",
+      "shelter_id": "SHT_000292",
       "name": "中華區民活動中心",
       "address": "中華路2段291號地下室",
       "county": "臺北市",
@@ -4335,7 +4125,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000308",
+      "shelter_id": "SHT_000293",
       "name": "三興國小",
       "address": "信義區基隆路2段99號",
       "county": "臺北市",
@@ -4349,7 +4139,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000309",
+      "shelter_id": "SHT_000294",
       "name": "大安森林公園",
       "address": "臺北市大安區新生南路以東、信義路3段以南",
       "county": "臺北市",
@@ -4363,7 +4153,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000310",
+      "shelter_id": "SHT_000295",
       "name": "新生國小",
       "address": "大安區新生南路2段36號",
       "county": "臺北市",
@@ -4377,7 +4167,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000311",
+      "shelter_id": "SHT_000296",
       "name": "瓊泰市民活動中心",
       "address": "瓊泰路85號",
       "county": "新北市",
@@ -4391,7 +4181,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000312",
+      "shelter_id": "SHT_000297",
       "name": "大安國中",
       "address": "大安區大安路2段63號",
       "county": "臺北市",
@@ -4405,7 +4195,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000313",
+      "shelter_id": "SHT_000298",
       "name": "大理高中",
       "address": "萬華區長順街2號",
       "county": "臺北市",
@@ -4419,7 +4209,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000314",
+      "shelter_id": "SHT_000299",
       "name": "思賢國小",
       "address": "自立街229號",
       "county": "新北市",
@@ -4433,7 +4223,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000315",
+      "shelter_id": "SHT_000300",
       "name": "雙園國小",
       "address": "萬華區莒光路315號",
       "county": "臺北市",
@@ -4447,7 +4237,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000316",
+      "shelter_id": "SHT_000301",
       "name": "國語實小",
       "address": "中正區南海路58號",
       "county": "臺北市",
@@ -4461,7 +4251,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000317",
+      "shelter_id": "SHT_000302",
       "name": "大理國小",
       "address": "萬華區艋舺大道389號",
       "county": "臺北市",
@@ -4475,7 +4265,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000318",
+      "shelter_id": "SHT_000303",
       "name": "建國中學",
       "address": "中正區南海路56號",
       "county": "臺北市",
@@ -4489,7 +4279,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000319",
+      "shelter_id": "SHT_000304",
       "name": "金華國中",
       "address": "大安區新生南路2段32號",
       "county": "臺北市",
@@ -4503,7 +4293,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000320",
+      "shelter_id": "SHT_000305",
       "name": "信義國小",
       "address": "信義區松勤街60號",
       "county": "臺北市",
@@ -4517,7 +4307,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000321",
+      "shelter_id": "SHT_000306",
       "name": "共和社區活動中心",
       "address": "中山路41巷6號",
       "county": "新北市",
@@ -4531,7 +4321,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000322",
+      "shelter_id": "SHT_000307",
       "name": "大安高工",
       "address": "大安區復興南路2段52號",
       "county": "臺北市",
@@ -4545,7 +4335,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000323",
+      "shelter_id": "SHT_000308",
       "name": "金華國小",
       "address": "大安區愛國東路79巷11號",
       "county": "臺北市",
@@ -4559,7 +4349,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000324",
+      "shelter_id": "SHT_000309",
       "name": "中正國中",
       "address": "中正區愛國東路158號",
       "county": "臺北市",
@@ -4573,7 +4363,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000325",
+      "shelter_id": "SHT_000310",
       "name": "江翠國小",
       "address": "文化路二段413號",
       "county": "新北市",
@@ -4587,7 +4377,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000326",
+      "shelter_id": "SHT_000311",
       "name": "永春高中",
       "address": "信義區松山路654號",
       "county": "臺北市",
@@ -4601,7 +4391,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000327",
+      "shelter_id": "SHT_000312",
       "name": "輔仁大學",
       "address": "中正路510號",
       "county": "新北市",
@@ -4615,7 +4405,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000328",
+      "shelter_id": "SHT_000313",
       "name": "台北世貿一館",
       "address": "台北市信義區信義路五段5號",
       "county": "基隆市",
@@ -4629,7 +4419,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000329",
+      "shelter_id": "SHT_000314",
       "name": "雙溪國小",
       "address": "東榮街54號",
       "county": "新北市",
@@ -4643,7 +4433,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000330",
+      "shelter_id": "SHT_000315",
       "name": "華江國小",
       "address": "萬華區環河南路2段250巷42弄2號",
       "county": "臺北市",
@@ -4657,7 +4447,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000331",
+      "shelter_id": "SHT_000316",
       "name": "新莊國小",
       "address": "中正路86號",
       "county": "新北市",
@@ -4671,7 +4461,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000332",
+      "shelter_id": "SHT_000317",
       "name": "松山家商",
       "address": "信義區松山路655號",
       "county": "臺北市",
@@ -4685,7 +4475,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000333",
+      "shelter_id": "SHT_000318",
       "name": "雙溪高中",
       "address": "梅竹蹊3號",
       "county": "新北市",
@@ -4699,7 +4489,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000334",
+      "shelter_id": "SHT_000319",
       "name": "南門國小",
       "address": "中正區廣州街6號",
       "county": "臺北市",
@@ -4713,21 +4503,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000335",
-      "name": "南門國中",
-      "address": "中正區廣州街6號",
-      "county": "臺北市",
-      "district": "臺北市中正區",
-      "capacity": 151,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5091,
-        "latitude": 25.0352
-      }
-    },
-    {
-      "shelter_id": "SHT_000336",
+      "shelter_id": "SHT_000320",
       "name": "平林市民活動中心",
       "address": "外平林52號",
       "county": "新北市",
@@ -4741,7 +4517,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000337",
+      "shelter_id": "SHT_000321",
       "name": "龍山國小",
       "address": "萬華區和平西路3段235號",
       "county": "臺北市",
@@ -4755,7 +4531,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000338",
+      "shelter_id": "SHT_000322",
       "name": "臺北市信義運動中心",
       "address": "松勤路100號",
       "county": "臺北市",
@@ -4769,21 +4545,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000339",
-      "name": "松德公園",
-      "address": "臺北市信義區松德路180巷興雅國中西側",
-      "county": "臺北市",
-      "district": "臺北市信義區",
-      "capacity": 1346,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5733,
-        "latitude": 25.0356
-      }
-    },
-    {
-      "shelter_id": "SHT_000340",
+      "shelter_id": "SHT_000323",
       "name": "台北市世貿三館",
       "address": "台北市信義區松壽路6號",
       "county": "基隆市",
@@ -4797,7 +4559,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000341",
+      "shelter_id": "SHT_000324",
       "name": "中信國小",
       "address": "中信街168號",
       "county": "新北市",
@@ -4811,7 +4573,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000342",
+      "shelter_id": "SHT_000325",
       "name": "仁愛國小",
       "address": "大安區安和路1段60號",
       "county": "臺北市",
@@ -4825,7 +4587,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000343",
+      "shelter_id": "SHT_000326",
       "name": "新莊區公所",
       "address": "中正路176號",
       "county": "新北市",
@@ -4839,7 +4601,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000344",
+      "shelter_id": "SHT_000327",
       "name": "新莊高中",
       "address": "中平路135號",
       "county": "新北市",
@@ -4853,7 +4615,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000345",
+      "shelter_id": "SHT_000328",
       "name": "龍山國中",
       "address": "臺北市萬華區南寧路46號",
       "county": "臺北市",
@@ -4867,7 +4629,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000346",
+      "shelter_id": "SHT_000329",
       "name": "博愛國小",
       "address": "信義區松仁路95巷20號",
       "county": "臺北市",
@@ -4881,7 +4643,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000347",
+      "shelter_id": "SHT_000330",
       "name": "興雅國中",
       "address": "信義區松德路168巷15號",
       "county": "臺北市",
@@ -4895,7 +4657,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000348",
+      "shelter_id": "SHT_000331",
       "name": "私立恆毅高級中學",
       "address": "中正路108號",
       "county": "新北市",
@@ -4909,7 +4671,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000349",
+      "shelter_id": "SHT_000332",
       "name": "新泰市民活動中心",
       "address": "建中街116巷3弄2號",
       "county": "新北市",
@@ -4923,7 +4685,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000350",
+      "shelter_id": "SHT_000333",
       "name": "頭前國中",
       "address": "思源路485號",
       "county": "新北市",
@@ -4937,7 +4699,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000351",
+      "shelter_id": "SHT_000334",
       "name": "?公國中",
       "address": "臺北市信義區福德街221巷15號",
       "county": "臺北市",
@@ -4951,7 +4713,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000352",
+      "shelter_id": "SHT_000335",
       "name": "弘道國中",
       "address": "中正區公園路21號",
       "county": "臺北市",
@@ -4965,7 +4727,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000353",
+      "shelter_id": "SHT_000336",
       "name": "仁愛國中",
       "address": "大安區仁愛路4段130號",
       "county": "臺北市",
@@ -4979,7 +4741,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000354",
+      "shelter_id": "SHT_000337",
       "name": "幸安國小",
       "address": "大安區仁愛路3段22號",
       "county": "臺北市",
@@ -4993,7 +4755,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000355",
+      "shelter_id": "SHT_000338",
       "name": "光華國小",
       "address": "龍安路452號",
       "county": "新北市",
@@ -5007,7 +4769,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000356",
+      "shelter_id": "SHT_000339",
       "name": "老松國小",
       "address": "臺北市萬華區桂林路64號",
       "county": "臺北市",
@@ -5021,7 +4783,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000357",
+      "shelter_id": "SHT_000340",
       "name": "北一女中",
       "address": "臺北市中正區重慶南路1段 165 號",
       "county": "臺北市",
@@ -5035,7 +4797,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000358",
+      "shelter_id": "SHT_000341",
       "name": "東門國小",
       "address": "中正區仁愛路1段2-4號",
       "county": "臺北市",
@@ -5049,7 +4811,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000359",
+      "shelter_id": "SHT_000342",
       "name": "福德國小",
       "address": "信義區福德街253號",
       "county": "臺北市",
@@ -5063,7 +4825,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000360",
+      "shelter_id": "SHT_000343",
       "name": "貴和市民活動中心",
       "address": "明志路三段365號",
       "county": "新北市",
@@ -5077,7 +4839,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000361",
+      "shelter_id": "SHT_000344",
       "name": "財團法人臺北市東和禪寺",
       "address": "仁愛路一段21-33號",
       "county": "臺北市",
@@ -5091,7 +4853,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000362",
+      "shelter_id": "SHT_000345",
       "name": "松山工農",
       "address": "臺北市信義區忠孝東路5段236巷15號",
       "county": "臺北市",
@@ -5105,7 +4867,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000363",
+      "shelter_id": "SHT_000346",
       "name": "光復國小",
       "address": "臺北市信義區光復南路271號",
       "county": "臺北市",
@@ -5119,7 +4881,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000364",
+      "shelter_id": "SHT_000347",
       "name": "舊庄國小",
       "address": "舊莊街一段100號",
       "county": "臺北市",
@@ -5133,7 +4895,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000365",
+      "shelter_id": "SHT_000348",
       "name": "二二八和平公園",
       "address": "臺北市中正區-凱達格蘭大道3號",
       "county": "臺北市",
@@ -5147,7 +4909,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000366",
+      "shelter_id": "SHT_000349",
       "name": "懷生國中",
       "address": "大安區忠孝東路3段248巷30號",
       "county": "臺北市",
@@ -5161,7 +4923,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000367",
+      "shelter_id": "SHT_000350",
       "name": "明志科技大學",
       "address": "工專路84號",
       "county": "新北市",
@@ -5175,7 +4937,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000368",
+      "shelter_id": "SHT_000351",
       "name": "中港第一市民活動中心",
       "address": "中港路172號",
       "county": "新北市",
@@ -5189,7 +4951,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000369",
+      "shelter_id": "SHT_000352",
       "name": "老人文康活動中心",
       "address": "十分街66巷1號",
       "county": "新北市",
@@ -5203,7 +4965,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000370",
+      "shelter_id": "SHT_000353",
       "name": "全安市民活動中心",
       "address": "新莊路527號",
       "county": "新北市",
@@ -5217,7 +4979,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000371",
+      "shelter_id": "SHT_000354",
       "name": "大有市民活動中心",
       "address": "插角25-1號",
       "county": "新北市",
@@ -5231,21 +4993,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000372",
-      "name": "豐珠國中小活動中心",
-      "address": "雞母嶺街6-6號",
-      "county": "新北市",
-      "district": "新北市貢寮區",
-      "capacity": 369,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.533012,
-        "latitude": 25.042385
-      }
-    },
-    {
-      "shelter_id": "SHT_000373",
+      "shelter_id": "SHT_000355",
       "name": "成功高中",
       "address": "臺北市中正區濟南路1段71號",
       "county": "臺北市",
@@ -5259,7 +5007,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000374",
+      "shelter_id": "SHT_000356",
       "name": "胡適國小",
       "address": "南港區舊莊街1段1號",
       "county": "臺北市",
@@ -5273,7 +5021,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000375",
+      "shelter_id": "SHT_000357",
       "name": "丹鳳高中",
       "address": "龍安路72號",
       "county": "新北市",
@@ -5287,7 +5035,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000376",
+      "shelter_id": "SHT_000358",
       "name": "忠孝國小",
       "address": "中正區忠孝東路2段101號",
       "county": "臺北市",
@@ -5301,7 +5049,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000377",
+      "shelter_id": "SHT_000359",
       "name": "明志國小",
       "address": "新生路2號",
       "county": "新北市",
@@ -5315,7 +5063,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000378",
+      "shelter_id": "SHT_000360",
       "name": "永吉國小",
       "address": "信義區松山路287巷5號",
       "county": "臺北市",
@@ -5329,7 +5077,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000379",
+      "shelter_id": "SHT_000361",
       "name": "私立金陵女中",
       "address": "三重區忠孝路三段93巷12號",
       "county": "新北市",
@@ -5343,7 +5091,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000380",
+      "shelter_id": "SHT_000362",
       "name": "西門國小",
       "address": "萬華區成都路98號",
       "county": "臺北市",
@@ -5357,7 +5105,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000381",
+      "shelter_id": "SHT_000363",
       "name": "松山高中",
       "address": "信義區基隆路1段156號",
       "county": "臺北市",
@@ -5371,7 +5119,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000382",
+      "shelter_id": "SHT_000364",
       "name": "十分國小",
       "address": "十分街157號",
       "county": "新北市",
@@ -5385,7 +5133,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000383",
+      "shelter_id": "SHT_000365",
       "name": "永春國小",
       "address": "信義區松山路225巷48號",
       "county": "臺北市",
@@ -5399,7 +5147,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000384",
+      "shelter_id": "SHT_000366",
       "name": "臺北田徑場",
       "address": "臺北市松山區敦化北路3號",
       "county": "臺北市",
@@ -5413,7 +5161,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000385",
+      "shelter_id": "SHT_000367",
       "name": "成德國中",
       "address": "臺北市南港區東新街108巷23號",
       "county": "臺北市",
@@ -5427,7 +5175,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000386",
+      "shelter_id": "SHT_000368",
       "name": "國泰國小",
       "address": "中正路386號",
       "county": "新北市",
@@ -5441,7 +5189,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000387",
+      "shelter_id": "SHT_000369",
       "name": "懷生國小",
       "address": "中山區安東街16巷2號",
       "county": "臺北市",
@@ -5455,7 +5203,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000388",
+      "shelter_id": "SHT_000370",
       "name": "修德國小",
       "address": "東新街118巷86號",
       "county": "臺北市",
@@ -5469,7 +5217,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000389",
+      "shelter_id": "SHT_000371",
       "name": "頭前國小",
       "address": "化成路231號",
       "county": "新北市",
@@ -5483,7 +5231,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000390",
+      "shelter_id": "SHT_000372",
       "name": "南港公園",
       "address": "東新街170-1號",
       "county": "臺北市",
@@ -5497,7 +5245,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000391",
+      "shelter_id": "SHT_000373",
       "name": "福星國小",
       "address": "萬華區中華路1段66號",
       "county": "臺北市",
@@ -5511,7 +5259,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000392",
+      "shelter_id": "SHT_000374",
       "name": "臺北市南港運動中心",
       "address": "臺北市南港區玉成街69號",
       "county": "臺北市",
@@ -5525,7 +5273,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000393",
+      "shelter_id": "SHT_000375",
       "name": "興雅國小",
       "address": "信義區基隆路1段83巷9號",
       "county": "臺北市",
@@ -5539,7 +5287,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000394",
+      "shelter_id": "SHT_000376",
       "name": "成德國小",
       "address": "南港區東新街65號",
       "county": "臺北市",
@@ -5553,7 +5301,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000395",
+      "shelter_id": "SHT_000377",
       "name": "義學國中",
       "address": "民生路30號",
       "county": "新北市",
@@ -5567,21 +5315,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000396",
-      "name": "義學國小",
-      "address": "民生路33號",
-      "county": "新北市",
-      "district": "新北市泰山區",
-      "capacity": 952,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.4347,
-        "latitude": 25.0472
-      }
-    },
-    {
-      "shelter_id": "SHT_000397",
+      "shelter_id": "SHT_000378",
       "name": "白雲國小",
       "address": "民權街2段90號",
       "county": "新北市",
@@ -5595,7 +5329,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000398",
+      "shelter_id": "SHT_000379",
       "name": "福營行政大樓",
       "address": "四維路9號",
       "county": "新北市",
@@ -5609,7 +5343,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000399",
+      "shelter_id": "SHT_000380",
       "name": "永吉國中",
       "address": "信義區松隆路161號",
       "county": "臺北市",
@@ -5623,7 +5357,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000400",
+      "shelter_id": "SHT_000381",
       "name": "中山女中",
       "address": "中山區長安東路2段141號",
       "county": "臺北市",
@@ -5637,7 +5371,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000401",
+      "shelter_id": "SHT_000382",
       "name": "義仁市民活動中心",
       "address": "明志路二段185號",
       "county": "新北市",
@@ -5651,7 +5385,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000402",
+      "shelter_id": "SHT_000383",
       "name": "中崙高中",
       "address": "松山區八德路4段101號",
       "county": "臺北市",
@@ -5665,7 +5399,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000403",
+      "shelter_id": "SHT_000384",
       "name": "臺北市松山運動中心",
       "address": "臺北市松山區敦化北路1號",
       "county": "臺北市",
@@ -5679,7 +5413,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000404",
+      "shelter_id": "SHT_000385",
       "name": "敦化國小",
       "address": "松山區敦化北路2號",
       "county": "臺北市",
@@ -5693,7 +5427,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000405",
+      "shelter_id": "SHT_000386",
       "name": "長安國中",
       "address": "中山區松江路70巷11號",
       "county": "臺北市",
@@ -5707,7 +5441,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000406",
+      "shelter_id": "SHT_000387",
       "name": "長安國小",
       "address": "中山區吉林路15號",
       "county": "臺北市",
@@ -5721,7 +5455,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000407",
+      "shelter_id": "SHT_000388",
       "name": "玉泉公園",
       "address": "臺北市大同區西寧北路28號",
       "county": "臺北市",
@@ -5735,7 +5469,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000408",
+      "shelter_id": "SHT_000389",
       "name": "興穀國民小學",
       "address": "三重區五谷王北街46號",
       "county": "新北市",
@@ -5749,7 +5483,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000409",
+      "shelter_id": "SHT_000390",
       "name": "建成國中",
       "address": "臺北市大同區長安西路37之1號",
       "county": "臺北市",
@@ -5763,7 +5497,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000410",
+      "shelter_id": "SHT_000391",
       "name": "橫科里活動中心",
       "address": "橫科路119號",
       "county": "新北市",
@@ -5777,7 +5511,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000411",
+      "shelter_id": "SHT_000392",
       "name": "中正國小",
       "address": "中山區龍江路62號",
       "county": "臺北市",
@@ -5791,7 +5525,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000412",
+      "shelter_id": "SHT_000393",
       "name": "忠孝國中",
       "address": "大同區西寧北路32號",
       "county": "臺北市",
@@ -5805,7 +5539,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000413",
+      "shelter_id": "SHT_000394",
       "name": "松山國小",
       "address": "松山區八德路4段746號",
       "county": "臺北市",
@@ -5819,7 +5553,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000414",
+      "shelter_id": "SHT_000395",
       "name": "豐年國小",
       "address": "瓊泰路116號",
       "county": "新北市",
@@ -5833,7 +5567,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000415",
+      "shelter_id": "SHT_000396",
       "name": "新泰國小",
       "address": "公園一路91號",
       "county": "新北市",
@@ -5847,7 +5581,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000416",
+      "shelter_id": "SHT_000397",
       "name": "仁和宮",
       "address": "仁和路11號",
       "county": "新北市",
@@ -5861,7 +5595,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000417",
+      "shelter_id": "SHT_000398",
       "name": "敦化國中",
       "address": "松山區南京東路3段300號",
       "county": "臺北市",
@@ -5875,7 +5609,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000418",
+      "shelter_id": "SHT_000399",
       "name": "臺北體育館",
       "address": "臺北市松山區南京東路4段10號",
       "county": "臺北市",
@@ -5889,7 +5623,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000419",
+      "shelter_id": "SHT_000400",
       "name": "臺北市極限運動訓練中心",
       "address": "臺北市南港區忠孝東路七段382號",
       "county": "臺北市",
@@ -5903,7 +5637,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000420",
+      "shelter_id": "SHT_000401",
       "name": "私立清傳商職",
       "address": "三重區五谷王北街141巷1號",
       "county": "新北市",
@@ -5917,7 +5651,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000421",
+      "shelter_id": "SHT_000402",
       "name": "福壽市民活動中心",
       "address": "昌明街1號",
       "county": "新北市",
@@ -5931,7 +5665,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000422",
+      "shelter_id": "SHT_000403",
       "name": "西松國小",
       "address": "臺北市松山區三民路5號",
       "county": "臺北市",
@@ -5945,7 +5679,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000423",
+      "shelter_id": "SHT_000404",
       "name": "南港高中",
       "address": "南港區向陽路21號",
       "county": "臺北市",
@@ -5959,7 +5693,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000424",
+      "shelter_id": "SHT_000405",
       "name": "民安國小",
       "address": "民安路261號",
       "county": "新北市",
@@ -5973,7 +5707,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000425",
+      "shelter_id": "SHT_000406",
       "name": "三港集會所",
       "address": "三港7號",
       "county": "新北市",
@@ -5987,7 +5721,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000426",
+      "shelter_id": "SHT_000407",
       "name": "玉成國小",
       "address": "向陽路31號",
       "county": "臺北市",
@@ -6001,7 +5735,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000427",
+      "shelter_id": "SHT_000408",
       "name": "福營國中",
       "address": "富國路105號",
       "county": "新北市",
@@ -6015,7 +5749,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000428",
+      "shelter_id": "SHT_000409",
       "name": "誠正國中",
       "address": "南港區富康街1巷42號",
       "county": "臺北市",
@@ -6029,7 +5763,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000429",
+      "shelter_id": "SHT_000410",
       "name": "同榮國小",
       "address": "公園路33號",
       "county": "新北市",
@@ -6043,7 +5777,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000430",
+      "shelter_id": "SHT_000411",
       "name": "新北市立三重高中",
       "address": "集美街212號",
       "county": "新北市",
@@ -6057,7 +5791,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000431",
+      "shelter_id": "SHT_000412",
       "name": "吉林國小",
       "address": "中山區長春路116號",
       "county": "臺北市",
@@ -6071,7 +5805,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000432",
+      "shelter_id": "SHT_000413",
       "name": "澳底圖書館",
       "address": "仁愛路79號3樓",
       "county": "新北市",
@@ -6085,7 +5819,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000433",
+      "shelter_id": "SHT_000414",
       "name": "長春國小",
       "address": "中山區長春路165號",
       "county": "臺北市",
@@ -6099,7 +5833,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000434",
+      "shelter_id": "SHT_000415",
       "name": "澳底國小大禮堂",
       "address": "延平街10號",
       "county": "新北市",
@@ -6113,7 +5847,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000435",
+      "shelter_id": "SHT_000416",
       "name": "慶安宮",
       "address": "延平街13號",
       "county": "新北市",
@@ -6127,7 +5861,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000436",
+      "shelter_id": "SHT_000417",
       "name": "大同高中",
       "address": "中山區長春路167號",
       "county": "臺北市",
@@ -6141,7 +5875,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000437",
+      "shelter_id": "SHT_000418",
       "name": "新泰國中",
       "address": "新泰路359號",
       "county": "新北市",
@@ -6155,7 +5889,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000438",
+      "shelter_id": "SHT_000419",
       "name": "日新國小",
       "address": "大同區太原路151號",
       "county": "臺北市",
@@ -6169,7 +5903,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000439",
+      "shelter_id": "SHT_000420",
       "name": "白雲里活動中心",
       "address": "水源路2段112、114號",
       "county": "新北市",
@@ -6183,7 +5917,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000440",
+      "shelter_id": "SHT_000421",
       "name": "泰山體育館",
       "address": "公園路54號",
       "county": "新北市",
@@ -6197,7 +5931,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000441",
+      "shelter_id": "SHT_000422",
       "name": "西松高中",
       "address": "松山區健康路325巷7號",
       "county": "臺北市",
@@ -6211,7 +5945,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000442",
+      "shelter_id": "SHT_000423",
       "name": "三光國民小學",
       "address": "三重區大同南路157號",
       "county": "新北市",
@@ -6225,7 +5959,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000443",
+      "shelter_id": "SHT_000424",
       "name": "東新國小",
       "address": "南港區興南街62號",
       "county": "臺北市",
@@ -6239,7 +5973,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000444",
+      "shelter_id": "SHT_000425",
       "name": "昌隆國小",
       "address": "昌隆街63號",
       "county": "新北市",
@@ -6253,7 +5987,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000445",
+      "shelter_id": "SHT_000426",
       "name": "南港高工",
       "address": "南港區興中路29號",
       "county": "臺北市",
@@ -6267,7 +6001,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000446",
+      "shelter_id": "SHT_000427",
       "name": "南港展覽館",
       "address": "臺北市南港區經貿二路1號",
       "county": "基隆市",
@@ -6281,7 +6015,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000447",
+      "shelter_id": "SHT_000428",
       "name": "興化國小",
       "address": "五工二路50巷2號",
       "county": "新北市",
@@ -6295,7 +6029,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000448",
+      "shelter_id": "SHT_000429",
       "name": "介壽國中",
       "address": "松山區延壽街401號",
       "county": "臺北市",
@@ -6309,7 +6043,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000449",
+      "shelter_id": "SHT_000430",
       "name": "集美國民小學",
       "address": "三重區集美街10號",
       "county": "新北市",
@@ -6323,7 +6057,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000450",
+      "shelter_id": "SHT_000431",
       "name": "蓬萊國小",
       "address": "大同區寧夏路35號",
       "county": "臺北市",
@@ -6337,7 +6071,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000451",
+      "shelter_id": "SHT_000432",
       "name": "民生國小",
       "address": "松山區敦化北路199巷18號",
       "county": "臺北市",
@@ -6351,7 +6085,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000452",
+      "shelter_id": "SHT_000433",
       "name": "健康國小",
       "address": "松山區延壽街168號",
       "county": "臺北市",
@@ -6365,7 +6099,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000453",
+      "shelter_id": "SHT_000434",
       "name": "泰山高中",
       "address": "辭修路7號",
       "county": "新北市",
@@ -6379,7 +6113,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000454",
+      "shelter_id": "SHT_000435",
       "name": "南港國小",
       "address": "臺北市南港區惠民街67號",
       "county": "臺北市",
@@ -6393,7 +6127,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000455",
+      "shelter_id": "SHT_000436",
       "name": "明志市民活動中心",
       "address": "明志路二段426號",
       "county": "新北市",
@@ -6407,7 +6141,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000456",
+      "shelter_id": "SHT_000437",
       "name": "菜寮市民活動中心",
       "address": "三重區中寮街57巷18號",
       "county": "新北市",
@@ -6421,7 +6155,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000457",
+      "shelter_id": "SHT_000438",
       "name": "育成高中",
       "address": "重陽路366號",
       "county": "臺北市",
@@ -6435,7 +6169,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000458",
+      "shelter_id": "SHT_000439",
       "name": "光興國民小學",
       "address": "三重區正義南路62號",
       "county": "新北市",
@@ -6449,7 +6183,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000459",
+      "shelter_id": "SHT_000440",
       "name": "民族國小",
       "address": "臺北市松山區民生東路4段97巷7號",
       "county": "臺北市",
@@ -6463,7 +6197,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000460",
+      "shelter_id": "SHT_000441",
       "name": "北峰國小",
       "address": "環河街1號",
       "county": "新北市",
@@ -6477,7 +6211,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000461",
+      "shelter_id": "SHT_000442",
       "name": "泰山區公所",
       "address": "明志路1段322號",
       "county": "新北市",
@@ -6491,7 +6225,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000462",
+      "shelter_id": "SHT_000443",
       "name": "東山國小",
       "address": "汐平路二段76號",
       "county": "新北市",
@@ -6505,7 +6239,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000463",
+      "shelter_id": "SHT_000444",
       "name": "民生國中",
       "address": "松山區新東街30巷1號",
       "county": "臺北市",
@@ -6519,7 +6253,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000464",
+      "shelter_id": "SHT_000445",
       "name": "過圳市民活動中心",
       "address": "三重區過圳街19號",
       "county": "新北市",
@@ -6533,7 +6267,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000465",
+      "shelter_id": "SHT_000446",
       "name": "雙蓮國小",
       "address": "大同區錦西街51號",
       "county": "臺北市",
@@ -6547,7 +6281,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000466",
+      "shelter_id": "SHT_000447",
       "name": "東方科學園區",
       "address": "汐止區新台五路一段90號",
       "county": "新北市",
@@ -6561,7 +6295,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000467",
+      "shelter_id": "SHT_000448",
       "name": "中山國中",
       "address": "松山區復興北路361巷7號",
       "county": "臺北市",
@@ -6575,7 +6309,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000468",
+      "shelter_id": "SHT_000449",
       "name": "潭美國小",
       "address": "內湖區新明路22號",
       "county": "臺北市",
@@ -6589,7 +6323,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000469",
+      "shelter_id": "SHT_000450",
       "name": "中正社區活動中心",
       "address": "中正路64號",
       "county": "新北市",
@@ -6603,7 +6337,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000470",
+      "shelter_id": "SHT_000451",
       "name": "三重區公所",
       "address": "三重區新北大道1段11號",
       "county": "新北市",
@@ -6617,7 +6351,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000471",
+      "shelter_id": "SHT_000452",
       "name": "青山國中小",
       "address": "莊敬街33號",
       "county": "新北市",
@@ -6631,7 +6365,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000472",
+      "shelter_id": "SHT_000453",
       "name": "成淵高中",
       "address": "大同區承德路2段235號",
       "county": "臺北市",
@@ -6645,7 +6379,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000473",
+      "shelter_id": "SHT_000454",
       "name": "太平國小",
       "address": "大同區延平北路2段239號",
       "county": "臺北市",
@@ -6659,7 +6393,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000474",
+      "shelter_id": "SHT_000455",
       "name": "永樂國小",
       "address": "臺北市大同區延平北路2段266號",
       "county": "臺北市",
@@ -6673,7 +6407,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000475",
+      "shelter_id": "SHT_000456",
       "name": "民權公園",
       "address": "臺北市松山區民權國小旁",
       "county": "臺北市",
@@ -6687,7 +6421,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000476",
+      "shelter_id": "SHT_000457",
       "name": "楓樹福泰市民活動中心",
       "address": "楓江路26巷26號",
       "county": "新北市",
@@ -6701,7 +6435,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000477",
+      "shelter_id": "SHT_000458",
       "name": "新生公園棒球場",
       "address": "新生北路三段105號",
       "county": "臺北市",
@@ -6715,35 +6449,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000478",
-      "name": "新興國中",
-      "address": "中山區林森北路511號",
-      "county": "臺北市",
-      "district": "臺北市中山區",
-      "capacity": 175,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5258,
-        "latitude": 25.062
-      }
-    },
-    {
-      "shelter_id": "SHT_000479",
-      "name": "臺北市中山運動中心",
-      "address": "中山北路二段44巷2號",
-      "county": "臺北市",
-      "district": "臺北市中山區",
-      "capacity": 184,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5258,
-        "latitude": 25.062
-      }
-    },
-    {
-      "shelter_id": "SHT_000480",
+      "shelter_id": "SHT_000459",
       "name": "泰山國小",
       "address": "泰林路2段255號",
       "county": "新北市",
@@ -6757,7 +6463,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000481",
+      "shelter_id": "SHT_000460",
       "name": "民權國小",
       "address": "臺北市松山區民權東路4段200號",
       "county": "臺北市",
@@ -6771,7 +6477,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000482",
+      "shelter_id": "SHT_000461",
       "name": "碧華國民中學",
       "address": "自強路5段66號",
       "county": "新北市",
@@ -6785,7 +6491,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000483",
+      "shelter_id": "SHT_000462",
       "name": "榮星花園公園",
       "address": "臺北市中山區民權東路3段1號",
       "county": "臺北市",
@@ -6799,7 +6505,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000484",
+      "shelter_id": "SHT_000463",
       "name": "黎明市民活動中心",
       "address": "黎明路23號",
       "county": "新北市",
@@ -6813,7 +6519,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000485",
+      "shelter_id": "SHT_000464",
       "name": "牡丹國小",
       "address": "政光路3號",
       "county": "新北市",
@@ -6827,7 +6533,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000486",
+      "shelter_id": "SHT_000465",
       "name": "秀峰國小",
       "address": "仁愛路90號",
       "county": "新北市",
@@ -6841,7 +6547,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000487",
+      "shelter_id": "SHT_000466",
       "name": "中山國小",
       "address": "臺北市中山區民權東路1段69號",
       "county": "臺北市",
@@ -6855,7 +6561,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000488",
+      "shelter_id": "SHT_000467",
       "name": "三重區綜合運動場",
       "address": "中正北路特2號",
       "county": "新北市",
@@ -6869,7 +6575,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000489",
+      "shelter_id": "SHT_000468",
       "name": "三民國小",
       "address": "松山區民權東路5段1號",
       "county": "臺北市",
@@ -6883,7 +6589,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000490",
+      "shelter_id": "SHT_000469",
       "name": "明志國民中學",
       "address": "三重區中正北路107號",
       "county": "新北市",
@@ -6897,7 +6603,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000491",
+      "shelter_id": "SHT_000470",
       "name": "民權國中",
       "address": "大同區重慶北路3段1號",
       "county": "臺北市",
@@ -6911,7 +6617,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000492",
+      "shelter_id": "SHT_000471",
       "name": "五常國中",
       "address": "中山區復興北路430巷1號",
       "county": "臺北市",
@@ -6925,7 +6631,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000493",
+      "shelter_id": "SHT_000472",
       "name": "汐止區公所行政中心",
       "address": "汐止區新台五路一段268號",
       "county": "新北市",
@@ -6939,7 +6645,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000494",
+      "shelter_id": "SHT_000473",
       "name": "五常國小",
       "address": "中山區五常街16號",
       "county": "臺北市",
@@ -6953,7 +6659,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000495",
+      "shelter_id": "SHT_000474",
       "name": "大橋國小",
       "address": "大同區重慶北路3段2號",
       "county": "臺北市",
@@ -6967,7 +6673,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000496",
+      "shelter_id": "SHT_000475",
       "name": "正義國民小學",
       "address": "三重區信義西街31號",
       "county": "新北市",
@@ -6981,7 +6687,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000497",
+      "shelter_id": "SHT_000476",
       "name": "行政區民活動中心",
       "address": "松江路367號9樓",
       "county": "臺北市",
@@ -6995,7 +6701,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000498",
+      "shelter_id": "SHT_000477",
       "name": "私立東海高中",
       "address": "三重區集美街212號",
       "county": "新北市",
@@ -7009,7 +6715,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000499",
+      "shelter_id": "SHT_000478",
       "name": "大同國小",
       "address": "大同區大龍街51號",
       "county": "臺北市",
@@ -7023,7 +6729,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000500",
+      "shelter_id": "SHT_000479",
       "name": "泰山國中",
       "address": "泰林路2段498號",
       "county": "新北市",
@@ -7037,7 +6743,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000501",
+      "shelter_id": "SHT_000480",
       "name": "二重國民小學",
       "address": "三重區大有街10號",
       "county": "新北市",
@@ -7051,7 +6757,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000502",
+      "shelter_id": "SHT_000481",
       "name": "福安廟",
       "address": "雞母嶺街7號",
       "county": "新北市",
@@ -7065,7 +6771,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000503",
+      "shelter_id": "SHT_000482",
       "name": "二重國民中學",
       "address": "三重區忠孝路三段89號",
       "county": "新北市",
@@ -7079,7 +6785,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000504",
+      "shelter_id": "SHT_000483",
       "name": "黎明技術學院",
       "address": "黎專路2之2號",
       "county": "新北市",
@@ -7093,7 +6799,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000505",
+      "shelter_id": "SHT_000484",
       "name": "裕民國小",
       "address": "裕民街123號",
       "county": "新北市",
@@ -7107,7 +6813,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000506",
+      "shelter_id": "SHT_000485",
       "name": "樟樹國中",
       "address": "樟樹二路135號",
       "county": "新北市",
@@ -7121,7 +6827,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000507",
+      "shelter_id": "SHT_000486",
       "name": "延平國小",
       "address": "大同區昌吉街97號",
       "county": "臺北市",
@@ -7135,7 +6841,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000508",
+      "shelter_id": "SHT_000487",
       "name": "修德國民小學",
       "address": "三重區重陽路三段3號",
       "county": "新北市",
@@ -7149,7 +6855,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000509",
+      "shelter_id": "SHT_000488",
       "name": "重陽國民小學",
       "address": "三重區中正北路113號",
       "county": "新北市",
@@ -7163,7 +6869,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000510",
+      "shelter_id": "SHT_000489",
       "name": "秀峰高中",
       "address": "忠孝東路201號",
       "county": "新北市",
@@ -7177,7 +6883,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000511",
+      "shelter_id": "SHT_000490",
       "name": "樟樹國小",
       "address": "樟樹一路141巷2號",
       "county": "新北市",
@@ -7191,7 +6897,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000512",
+      "shelter_id": "SHT_000491",
       "name": "汐止國小",
       "address": "大同路二段313號",
       "county": "新北市",
@@ -7205,7 +6911,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000513",
+      "shelter_id": "SHT_000492",
       "name": "南湖高中",
       "address": "內湖區康寧路3段220號",
       "county": "臺北市",
@@ -7219,7 +6925,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000514",
+      "shelter_id": "SHT_000493",
       "name": "汐止國中",
       "address": "大同路二段394號",
       "county": "新北市",
@@ -7233,7 +6939,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000515",
+      "shelter_id": "SHT_000494",
       "name": "師範大學林口校區體育館",
       "address": "仁愛路一段2號",
       "county": "新北市",
@@ -7247,7 +6953,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000516",
+      "shelter_id": "SHT_000495",
       "name": "林口市民活動中心",
       "address": "中正路100號3樓",
       "county": "新北市",
@@ -7261,7 +6967,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000517",
+      "shelter_id": "SHT_000496",
       "name": "崇林國中",
       "address": "文化一路一段20號",
       "county": "新北市",
@@ -7275,7 +6981,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000518",
+      "shelter_id": "SHT_000497",
       "name": "正義市民活動中心",
       "address": "三重區雙園街1號",
       "county": "新北市",
@@ -7289,7 +6995,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000519",
+      "shelter_id": "SHT_000498",
       "name": "東湖國小",
       "address": "內湖區東湖路115號",
       "county": "臺北市",
@@ -7303,7 +7009,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000520",
+      "shelter_id": "SHT_000499",
       "name": "麗園國小",
       "address": "忠孝路591號",
       "county": "新北市",
@@ -7317,7 +7023,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000521",
+      "shelter_id": "SHT_000500",
       "name": "麗林國小",
       "address": "公園路46號",
       "county": "新北市",
@@ -7331,7 +7037,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000522",
+      "shelter_id": "SHT_000501",
       "name": "東勢市民活動中心",
       "address": "麗園一街35號3樓",
       "county": "新北市",
@@ -7345,7 +7051,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000523",
+      "shelter_id": "SHT_000502",
       "name": "新湖國小",
       "address": "臺北市內湖區民權東路6段138號",
       "county": "臺北市",
@@ -7359,7 +7065,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000524",
+      "shelter_id": "SHT_000503",
       "name": "金龍國小",
       "address": "明峰街201號",
       "county": "新北市",
@@ -7373,7 +7079,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000525",
+      "shelter_id": "SHT_000504",
       "name": "麗園市民活動中心",
       "address": "忠孝路569巷17號",
       "county": "新北市",
@@ -7387,7 +7093,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000526",
+      "shelter_id": "SHT_000505",
       "name": "三民國中",
       "address": "內湖區民權東路6段45號",
       "county": "臺北市",
@@ -7401,7 +7107,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000527",
+      "shelter_id": "SHT_000506",
       "name": "茄苳里活動中心",
       "address": "茄苳路225巷35號",
       "county": "新北市",
@@ -7415,7 +7121,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000528",
+      "shelter_id": "SHT_000507",
       "name": "蘭州國中",
       "address": "大同區大龍街187巷1號",
       "county": "臺北市",
@@ -7429,7 +7135,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000529",
+      "shelter_id": "SHT_000508",
       "name": "內湖區行政大樓",
       "address": "民權東路6段99號8樓",
       "county": "臺北市",
@@ -7443,7 +7149,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000530",
+      "shelter_id": "SHT_000509",
       "name": "崇德國小",
       "address": "茄苳路158號",
       "county": "新北市",
@@ -7457,7 +7163,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000531",
+      "shelter_id": "SHT_000510",
       "name": "新北市立三重商工",
       "address": "三重區中正北路163號",
       "county": "新北市",
@@ -7471,7 +7177,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000532",
+      "shelter_id": "SHT_000511",
       "name": "私立穀保家商",
       "address": "三重區中正北路560巷38號",
       "county": "新北市",
@@ -7485,7 +7191,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000533",
+      "shelter_id": "SHT_000512",
       "name": "更寮國民小學",
       "address": "四維路2號",
       "county": "新北市",
@@ -7499,7 +7205,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000534",
+      "shelter_id": "SHT_000513",
       "name": "六張市民活動中心",
       "address": "三重區六張街66號",
       "county": "新北市",
@@ -7513,7 +7219,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000535",
+      "shelter_id": "SHT_000514",
       "name": "三重國民小學",
       "address": "三重區三和路三段1號",
       "county": "新北市",
@@ -7527,7 +7233,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000536",
+      "shelter_id": "SHT_000515",
       "name": "光榮國民中學",
       "address": "三重區介壽路26號",
       "county": "新北市",
@@ -7541,7 +7247,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000537",
+      "shelter_id": "SHT_000516",
       "name": "崇德橋東市民活動中心",
       "address": "茄苳路82號",
       "county": "新北市",
@@ -7555,7 +7261,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000538",
+      "shelter_id": "SHT_000517",
       "name": "南湖國小",
       "address": "臺北市內湖區康寧路3段200號",
       "county": "臺北市",
@@ -7569,21 +7275,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000539",
-      "name": "明湖國中",
-      "address": "內湖區康寧路3段60號",
-      "county": "臺北市",
-      "district": "臺北市內湖區",
-      "capacity": 251,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.6107,
-        "latitude": 25.0706
-      }
-    },
-    {
-      "shelter_id": "SHT_000540",
+      "shelter_id": "SHT_000518",
       "name": "和平市民活動中心",
       "address": "三重區自強路二段90號",
       "county": "新北市",
@@ -7597,21 +7289,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000541",
-      "name": "厚德國民小學",
-      "address": "三重區中孝路一段70號",
-      "county": "新北市",
-      "district": "新北市三重區",
-      "capacity": 505,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.4874,
-        "latitude": 25.0707
-      }
-    },
-    {
-      "shelter_id": "SHT_000542",
+      "shelter_id": "SHT_000519",
       "name": "老人文康活動中心禮堂",
       "address": "三重區自強路二段93號B1",
       "county": "新北市",
@@ -7625,7 +7303,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000543",
+      "shelter_id": "SHT_000520",
       "name": "光榮國民小學",
       "address": "三重區介壽路32號",
       "county": "新北市",
@@ -7639,7 +7317,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000544",
+      "shelter_id": "SHT_000521",
       "name": "明湖國小",
       "address": "內湖區康寧路3段105號",
       "county": "臺北市",
@@ -7653,7 +7331,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000545",
+      "shelter_id": "SHT_000522",
       "name": "保長坑訓練中心",
       "address": "大同路三段469號",
       "county": "新北市",
@@ -7667,7 +7345,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000546",
+      "shelter_id": "SHT_000523",
       "name": "德音國民小學",
       "address": "明德路2號",
       "county": "新北市",
@@ -7681,7 +7359,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000547",
+      "shelter_id": "SHT_000524",
       "name": "保長國小",
       "address": "大同路三段553號",
       "county": "新北市",
@@ -7695,7 +7373,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000548",
+      "shelter_id": "SHT_000525",
       "name": "仁愛市民活動中心",
       "address": "文化一路1段137號",
       "county": "新北市",
@@ -7709,7 +7387,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000549",
+      "shelter_id": "SHT_000526",
       "name": "東湖國中",
       "address": "內湖區康樂街131號",
       "county": "臺北市",
@@ -7723,7 +7401,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000550",
+      "shelter_id": "SHT_000527",
       "name": "麗湖國小",
       "address": "內湖區金湖路363巷8號",
       "county": "臺北市",
@@ -7737,7 +7415,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000551",
+      "shelter_id": "SHT_000528",
       "name": "大佳國小",
       "address": "中山區濱江街107號",
       "county": "臺北市",
@@ -7751,7 +7429,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000552",
+      "shelter_id": "SHT_000529",
       "name": "大龍國小",
       "address": "大同區哈密街47號",
       "county": "臺北市",
@@ -7765,7 +7443,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000553",
+      "shelter_id": "SHT_000530",
       "name": "林口高中",
       "address": "仁愛路二段173號",
       "county": "新北市",
@@ -7779,7 +7457,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000554",
+      "shelter_id": "SHT_000531",
       "name": "格致高級中學",
       "address": "三重區大智街260號",
       "county": "新北市",
@@ -7793,7 +7471,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000555",
+      "shelter_id": "SHT_000532",
       "name": "南勢市民活動中心",
       "address": "南勢二街154號",
       "county": "新北市",
@@ -7807,7 +7485,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000556",
+      "shelter_id": "SHT_000533",
       "name": "南勢國小",
       "address": "南勢街215號",
       "county": "新北市",
@@ -7821,7 +7499,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000557",
+      "shelter_id": "SHT_000534",
       "name": "明倫高中",
       "address": "臺北市大同區承德路3段336號",
       "county": "臺北市",
@@ -7835,7 +7513,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000558",
+      "shelter_id": "SHT_000535",
       "name": "憲訓中心",
       "address": "成泰路一段175號",
       "county": "新北市",
@@ -7849,21 +7527,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000559",
-      "name": "重慶國中",
-      "address": "大同區敦煌路19號",
-      "county": "臺北市",
-      "district": "臺北市大同區",
-      "capacity": 0,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5179,
-        "latitude": 25.0759
-      }
-    },
-    {
-      "shelter_id": "SHT_000560",
+      "shelter_id": "SHT_000536",
       "name": "臺北市大同運動中心",
       "address": "大龍街51號",
       "county": "臺北市",
@@ -7877,7 +7541,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000561",
+      "shelter_id": "SHT_000537",
       "name": "永盛市民活動中心",
       "address": "三重區車路頭街133號",
       "county": "新北市",
@@ -7891,7 +7555,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000562",
+      "shelter_id": "SHT_000538",
       "name": "三和國民中學",
       "address": "三重區三和路四段216號",
       "county": "新北市",
@@ -7905,7 +7569,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000563",
+      "shelter_id": "SHT_000539",
       "name": "林口區公所",
       "address": "仁愛路一段378號",
       "county": "新北市",
@@ -7919,7 +7583,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000564",
+      "shelter_id": "SHT_000540",
       "name": "得仁市民活動中心",
       "address": "中山一路415號6樓",
       "county": "新北市",
@@ -7933,7 +7597,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000565",
+      "shelter_id": "SHT_000541",
       "name": "林口國中活動中心",
       "address": "民治路25號",
       "county": "新北市",
@@ -7947,7 +7611,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000566",
+      "shelter_id": "SHT_000542",
       "name": "永福國民小學",
       "address": "三重區永福街66號",
       "county": "新北市",
@@ -7961,7 +7625,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000567",
+      "shelter_id": "SHT_000543",
       "name": "內湖國中",
       "address": "內湖區陽光街1號",
       "county": "臺北市",
@@ -7975,7 +7639,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000568",
+      "shelter_id": "SHT_000544",
       "name": "長安里民活動中心",
       "address": "長安街31號",
       "county": "基隆市",
@@ -7989,7 +7653,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000569",
+      "shelter_id": "SHT_000545",
       "name": "濱江國小",
       "address": "中山區樂群2路266巷99號",
       "county": "臺北市",
@@ -8003,7 +7667,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000570",
+      "shelter_id": "SHT_000546",
       "name": "麗林市民活動中心",
       "address": "公園路59號3樓",
       "county": "新北市",
@@ -8017,7 +7681,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000571",
+      "shelter_id": "SHT_000547",
       "name": "北安國中",
       "address": "中山區明水路325號",
       "county": "臺北市",
@@ -8031,7 +7695,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000572",
+      "shelter_id": "SHT_000548",
       "name": "內湖高中",
       "address": "內湖區文德路218號",
       "county": "臺北市",
@@ -8045,21 +7709,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000573",
-      "name": "臺北市內湖運動中心",
-      "address": "洲子街12號",
-      "county": "臺北市",
-      "district": "臺北市內湖區",
-      "capacity": 219,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5865,
-        "latitude": 25.0784
-      }
-    },
-    {
-      "shelter_id": "SHT_000574",
+      "shelter_id": "SHT_000549",
       "name": "新北特殊教育學校",
       "address": "文化北路1段425號",
       "county": "新北市",
@@ -8073,7 +7723,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000575",
+      "shelter_id": "SHT_000550",
       "name": "民生市民活動中心",
       "address": "民生街129巷14號",
       "county": "新北市",
@@ -8087,7 +7737,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000576",
+      "shelter_id": "SHT_000551",
       "name": "永安國小",
       "address": "臺北市中山區明水路397巷19弄1號",
       "county": "臺北市",
@@ -8101,7 +7751,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000577",
+      "shelter_id": "SHT_000552",
       "name": "長安市民活動中心",
       "address": "長興街一段50號",
       "county": "新北市",
@@ -8115,7 +7765,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000578",
+      "shelter_id": "SHT_000553",
       "name": "內湖國小",
       "address": "內湖區內湖路2段41號",
       "county": "臺北市",
@@ -8129,7 +7779,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000579",
+      "shelter_id": "SHT_000554",
       "name": "長安國小",
       "address": "長興街一段80號",
       "county": "新北市",
@@ -8143,7 +7793,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000580",
+      "shelter_id": "SHT_000555",
       "name": "更新市民活動中心",
       "address": "更洲路47號",
       "county": "新北市",
@@ -8157,7 +7807,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000581",
+      "shelter_id": "SHT_000556",
       "name": "大直高中",
       "address": "中山區北安路420號",
       "county": "臺北市",
@@ -8171,7 +7821,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000582",
+      "shelter_id": "SHT_000557",
       "name": "醒吾高中",
       "address": "粉寮路一段75巷80號",
       "county": "新北市",
@@ -8185,7 +7835,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000583",
+      "shelter_id": "SHT_000558",
       "name": "溪墘湧蓮市民活動中心",
       "address": "信義路65號",
       "county": "新北市",
@@ -8199,7 +7849,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000584",
+      "shelter_id": "SHT_000559",
       "name": "竹林山觀音寺活動中心",
       "address": "竹林路325號",
       "county": "新北市",
@@ -8213,7 +7863,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000585",
+      "shelter_id": "SHT_000560",
       "name": "濱江國中",
       "address": "中山區樂群二路262號",
       "county": "臺北市",
@@ -8227,7 +7877,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000586",
+      "shelter_id": "SHT_000561",
       "name": "內湖高工",
       "address": "內湖路1段520號",
       "county": "臺北市",
@@ -8241,7 +7891,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000587",
+      "shelter_id": "SHT_000562",
       "name": "劍潭國小",
       "address": "士林區通河街16號",
       "county": "臺北市",
@@ -8255,7 +7905,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000588",
+      "shelter_id": "SHT_000563",
       "name": "康寧國小",
       "address": "內湖區星雲街121號",
       "county": "臺北市",
@@ -8269,7 +7919,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000589",
+      "shelter_id": "SHT_000564",
       "name": "佳林國中",
       "address": "中山路268號",
       "county": "新北市",
@@ -8283,7 +7933,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000590",
+      "shelter_id": "SHT_000565",
       "name": "徐匯中學",
       "address": "中山一路1號",
       "county": "新北市",
@@ -8297,7 +7947,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000591",
+      "shelter_id": "SHT_000566",
       "name": "大直國小",
       "address": "中山區大直街2號",
       "county": "臺北市",
@@ -8311,7 +7961,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000592",
+      "shelter_id": "SHT_000567",
       "name": "長安市民活動中心",
       "address": "長安街96號4樓",
       "county": "新北市",
@@ -8325,7 +7975,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000593",
+      "shelter_id": "SHT_000568",
       "name": "林口國小",
       "address": "林口路76號",
       "county": "新北市",
@@ -8339,7 +7989,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000594",
+      "shelter_id": "SHT_000569",
       "name": "實踐里民活動中心",
       "address": "百一街52-1號",
       "county": "基隆市",
@@ -8353,7 +8003,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000595",
+      "shelter_id": "SHT_000570",
       "name": "永安兒童公園市民活動中心",
       "address": "永安北路二段42之6號",
       "county": "新北市",
@@ -8367,7 +8017,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000596",
+      "shelter_id": "SHT_000571",
       "name": "麗山國中",
       "address": "內湖區內湖路1段629巷42號",
       "county": "臺北市",
@@ -8381,7 +8031,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000597",
+      "shelter_id": "SHT_000572",
       "name": "中路市民活動中心",
       "address": "光華路107巷11號",
       "county": "新北市",
@@ -8395,7 +8045,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000598",
+      "shelter_id": "SHT_000573",
       "name": "頭湖國小",
       "address": "民權路101號",
       "county": "新北市",
@@ -8409,7 +8059,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000599",
+      "shelter_id": "SHT_000574",
       "name": "堵南里民活動中心",
       "address": "堵南街20之8號",
       "county": "基隆市",
@@ -8423,7 +8073,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000600",
+      "shelter_id": "SHT_000575",
       "name": "大湖公園",
       "address": "成功路五段31號旁",
       "county": "臺北市",
@@ -8437,7 +8087,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000601",
+      "shelter_id": "SHT_000576",
       "name": "立體停車場",
       "address": "工商路3號",
       "county": "新北市",
@@ -8451,7 +8101,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000602",
+      "shelter_id": "SHT_000577",
       "name": "堵南國小活動中心",
       "address": "大德路120號",
       "county": "基隆市",
@@ -8465,7 +8115,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000603",
+      "shelter_id": "SHT_000578",
       "name": "五股國民中學",
       "address": "成泰路二段49巷15號",
       "county": "新北市",
@@ -8479,7 +8129,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000604",
+      "shelter_id": "SHT_000579",
       "name": "暖東里民活動中心",
       "address": "東勢街54號",
       "county": "基隆市",
@@ -8493,7 +8143,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000605",
+      "shelter_id": "SHT_000580",
       "name": "五股國民小學",
       "address": "成泰路2段49號",
       "county": "新北市",
@@ -8507,7 +8157,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000606",
+      "shelter_id": "SHT_000581",
       "name": "堵北里民活動中心",
       "address": "福一街136號二樓",
       "county": "基隆市",
@@ -8521,7 +8171,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000607",
+      "shelter_id": "SHT_000582",
       "name": "財團法人臺灣省臺北縣基督教徒蘆洲",
       "address": "三民路26巷71弄2號B1地下室",
       "county": "新北市",
@@ -8535,7 +8185,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000608",
+      "shelter_id": "SHT_000583",
       "name": "麗山國小",
       "address": "臺北市內湖區港華街100號",
       "county": "臺北市",
@@ -8549,7 +8199,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000609",
+      "shelter_id": "SHT_000584",
       "name": "葫蘆國小",
       "address": "士林區環河北路3段95號",
       "county": "臺北市",
@@ -8563,7 +8213,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000610",
+      "shelter_id": "SHT_000585",
       "name": "百福國中活動中心",
       "address": "福五街1號",
       "county": "基隆市",
@@ -8577,7 +8227,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000611",
+      "shelter_id": "SHT_000586",
       "name": "西湖國小",
       "address": "內湖區環山路1段25號",
       "county": "臺北市",
@@ -8591,7 +8241,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000612",
+      "shelter_id": "SHT_000587",
       "name": "蘆洲國小",
       "address": "中正路100號",
       "county": "新北市",
@@ -8605,7 +8255,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000613",
+      "shelter_id": "SHT_000588",
       "name": "麗山高中",
       "address": "臺北市內湖區環山路2段100號",
       "county": "臺北市",
@@ -8619,7 +8269,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000614",
+      "shelter_id": "SHT_000589",
       "name": "湖南市民活動中心",
       "address": "民權路165號",
       "county": "新北市",
@@ -8633,7 +8283,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000615",
+      "shelter_id": "SHT_000590",
       "name": "蘆洲區公所",
       "address": "三民路95號",
       "county": "新北市",
@@ -8647,21 +8297,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000616",
-      "name": "碧華國民小學",
-      "address": "五華街160號",
-      "county": "新北市",
-      "district": "新北市三重區",
-      "capacity": 0,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.490369,
-        "latitude": 25.085115
-      }
-    },
-    {
-      "shelter_id": "SHT_000617",
+      "shelter_id": "SHT_000591",
       "name": "鷺江國小",
       "address": "民族路7號",
       "county": "新北市",
@@ -8675,7 +8311,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000618",
+      "shelter_id": "SHT_000592",
       "name": "碧湖國小",
       "address": "臺北市內湖區金龍路100號",
       "county": "臺北市",
@@ -8689,7 +8325,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000619",
+      "shelter_id": "SHT_000593",
       "name": "成功國小",
       "address": "長安街311號",
       "county": "新北市",
@@ -8703,7 +8339,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000620",
+      "shelter_id": "SHT_000594",
       "name": "重陽市民活動中心",
       "address": "集賢路221巷11號",
       "county": "新北市",
@@ -8717,7 +8353,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000621",
+      "shelter_id": "SHT_000595",
       "name": "文湖國小",
       "address": "內湖區文湖街15號",
       "county": "臺北市",
@@ -8731,7 +8367,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000622",
+      "shelter_id": "SHT_000596",
       "name": "西湖國中",
       "address": "內湖區環山路1段27號",
       "county": "臺北市",
@@ -8745,7 +8381,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000623",
+      "shelter_id": "SHT_000597",
       "name": "百齡國小",
       "address": "士林區福港街205號",
       "county": "臺北市",
@@ -8759,7 +8395,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000624",
+      "shelter_id": "SHT_000598",
       "name": "泰安里民活動中心",
       "address": "泰和街57號",
       "county": "基隆市",
@@ -8773,7 +8409,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000625",
+      "shelter_id": "SHT_000599",
       "name": "五華國民小學",
       "address": "三重區集賢路89號",
       "county": "新北市",
@@ -8787,7 +8423,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000626",
+      "shelter_id": "SHT_000600",
       "name": "三民高中",
       "address": "三民路96號",
       "county": "新北市",
@@ -8801,7 +8437,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000627",
+      "shelter_id": "SHT_000601",
       "name": "百齡高中",
       "address": "士林區承德路4段177號",
       "county": "臺北市",
@@ -8815,7 +8451,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000628",
+      "shelter_id": "SHT_000602",
       "name": "蘆洲國中",
       "address": "中正路265號",
       "county": "新北市",
@@ -8829,7 +8465,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000629",
+      "shelter_id": "SHT_000603",
       "name": "新北市立新北高中",
       "address": "三重區重新路五段656號",
       "county": "新北市",
@@ -8843,7 +8479,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000630",
+      "shelter_id": "SHT_000604",
       "name": "大湖國小",
       "address": "內湖區大湖山莊街170號",
       "county": "臺北市",
@@ -8857,7 +8493,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000631",
+      "shelter_id": "SHT_000605",
       "name": "百福里民活動中心",
       "address": "實踐路263號",
       "county": "基隆市",
@@ -8871,7 +8507,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000632",
+      "shelter_id": "SHT_000606",
       "name": "猴硐國小",
       "address": "瑞芳區九芎橋路69-1號",
       "county": "新北市",
@@ -8885,7 +8521,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000633",
+      "shelter_id": "SHT_000607",
       "name": "忠義國小",
       "address": "光榮路99號",
       "county": "新北市",
@@ -8899,7 +8535,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000634",
+      "shelter_id": "SHT_000608",
       "name": "北港國小",
       "address": "汐萬路二段279號",
       "county": "新北市",
@@ -8913,7 +8549,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000635",
+      "shelter_id": "SHT_000609",
       "name": "天母棒球場",
       "address": "忠誠路二段77號",
       "county": "臺北市",
@@ -8927,35 +8563,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000636",
-      "name": "臺北市士林運動中心",
-      "address": "士商路1號",
-      "county": "臺北市",
-      "district": "臺北市士林區",
-      "capacity": 171,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5029,
-        "latitude": 25.0898
-      }
-    },
-    {
-      "shelter_id": "SHT_000637",
-      "name": "社子國小",
-      "address": "臺北市士林區延平北路6段308號",
-      "county": "臺北市",
-      "district": "臺北市士林區",
-      "capacity": 192,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5029,
-        "latitude": 25.0898
-      }
-    },
-    {
-      "shelter_id": "SHT_000638",
+      "shelter_id": "SHT_000610",
       "name": "鷺江國中",
       "address": "長樂路235號",
       "county": "新北市",
@@ -8969,7 +8577,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000639",
+      "shelter_id": "SHT_000611",
       "name": "公民會館",
       "address": "御史路1巷59號",
       "county": "新北市",
@@ -8983,7 +8591,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000640",
+      "shelter_id": "SHT_000612",
       "name": "永平市民活動中心",
       "address": "永平街1號4樓",
       "county": "新北市",
@@ -8997,7 +8605,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000641",
+      "shelter_id": "SHT_000613",
       "name": "六堵里民活動中心",
       "address": "工建路104巷17-1號-2號",
       "county": "基隆市",
@@ -9011,7 +8619,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000642",
+      "shelter_id": "SHT_000614",
       "name": "仁愛國小",
       "address": "民族路488號",
       "county": "新北市",
@@ -9025,7 +8633,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000643",
+      "shelter_id": "SHT_000615",
       "name": "陽明高中",
       "address": "士林區中正路510號",
       "county": "臺北市",
@@ -9039,7 +8647,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000644",
+      "shelter_id": "SHT_000616",
       "name": "友一里民活動中心",
       "address": "華新一路59-1號",
       "county": "基隆市",
@@ -9053,7 +8661,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000645",
+      "shelter_id": "SHT_000617",
       "name": "水湳市民活動中心",
       "address": "民族路426巷17號",
       "county": "新北市",
@@ -9067,7 +8675,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000646",
+      "shelter_id": "SHT_000618",
       "name": "士林國小",
       "address": "臺北市士林區大東路165號",
       "county": "臺北市",
@@ -9081,7 +8689,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000647",
+      "shelter_id": "SHT_000619",
       "name": "士林國中",
       "address": "士林區中正路345號",
       "county": "臺北市",
@@ -9095,7 +8703,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000648",
+      "shelter_id": "SHT_000620",
       "name": "成功市民活動中心",
       "address": "西雲路163號",
       "county": "新北市",
@@ -9109,7 +8717,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000649",
+      "shelter_id": "SHT_000621",
       "name": "基隆高級商工職業學校",
       "address": "東新街22號",
       "county": "基隆市",
@@ -9123,7 +8731,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000650",
+      "shelter_id": "SHT_000622",
       "name": "士林高商",
       "address": "士林區士商路150號",
       "county": "臺北市",
@@ -9137,7 +8745,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000651",
+      "shelter_id": "SHT_000623",
       "name": "長興里民活動中心",
       "address": "東新街25號",
       "county": "基隆市",
@@ -9151,7 +8759,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000652",
+      "shelter_id": "SHT_000624",
       "name": "士林官邸公園",
       "address": "臺北市士林區福林路60號",
       "county": "臺北市",
@@ -9165,7 +8773,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000653",
+      "shelter_id": "SHT_000625",
       "name": "暖西里民活動中心",
       "address": "東勢街26巷69號",
       "county": "基隆市",
@@ -9179,7 +8787,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000654",
+      "shelter_id": "SHT_000626",
       "name": "碇祥里民活動中心",
       "address": "碇內街100號",
       "county": "基隆市",
@@ -9193,7 +8801,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000655",
+      "shelter_id": "SHT_000627",
       "name": "碇內里民活動中心",
       "address": "暖碇路15巷136號",
       "county": "基隆市",
@@ -9207,7 +8815,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000656",
+      "shelter_id": "SHT_000628",
       "name": "碇內國中",
       "address": "源遠路152巷75號",
       "county": "基隆市",
@@ -9221,7 +8829,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000657",
+      "shelter_id": "SHT_000629",
       "name": "暖暖里民活動中心",
       "address": "暖暖街281巷58號",
       "county": "基隆市",
@@ -9235,7 +8843,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000658",
+      "shelter_id": "SHT_000630",
       "name": "七堵國小活動中心",
       "address": "明德一路184號2-4樓",
       "county": "基隆市",
@@ -9249,7 +8857,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000659",
+      "shelter_id": "SHT_000631",
       "name": "成州市民活動中心",
       "address": "西雲路267號",
       "county": "新北市",
@@ -9263,7 +8871,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000660",
+      "shelter_id": "SHT_000632",
       "name": "七堵行政大樓6樓",
       "address": "光明路21號6樓",
       "county": "基隆市",
@@ -9277,7 +8885,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000661",
+      "shelter_id": "SHT_000633",
       "name": "福林國小",
       "address": "士林區福志路75號",
       "county": "臺北市",
@@ -9291,7 +8899,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000662",
+      "shelter_id": "SHT_000634",
       "name": "永平里民活動中心",
       "address": "崇智街13-1號",
       "county": "基隆市",
@@ -9305,7 +8913,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000663",
+      "shelter_id": "SHT_000635",
       "name": "文昌國小",
       "address": "士林區文林路615巷20號",
       "county": "臺北市",
@@ -9319,7 +8927,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000664",
+      "shelter_id": "SHT_000636",
       "name": "地藏禪寺",
       "address": "延平北路7段189號",
       "county": "臺北市",
@@ -9333,7 +8941,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000665",
+      "shelter_id": "SHT_000637",
       "name": "成州國民小學",
       "address": "成泰路3段493號",
       "county": "新北市",
@@ -9347,7 +8955,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000666",
+      "shelter_id": "SHT_000638",
       "name": "碇安里民活動中心",
       "address": "源遠路277巷23號",
       "county": "基隆市",
@@ -9361,7 +8969,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000667",
+      "shelter_id": "SHT_000639",
       "name": "八德土地公廟",
       "address": "大華一路57巷43-4號",
       "county": "基隆市",
@@ -9375,7 +8983,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000668",
+      "shelter_id": "SHT_000640",
       "name": "湖北市民活動中心",
       "address": "林口區湖北里後湖17之6號",
       "county": "新北市",
@@ -9389,7 +8997,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000669",
+      "shelter_id": "SHT_000641",
       "name": "暖同里民活動中心",
       "address": "暖暖街16巷41號",
       "county": "基隆市",
@@ -9403,7 +9011,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000670",
+      "shelter_id": "SHT_000642",
       "name": "自強里民活動中心",
       "address": "自強路1號",
       "county": "基隆市",
@@ -9417,7 +9025,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000671",
+      "shelter_id": "SHT_000643",
       "name": "雨聲國小",
       "address": "士林區至誠路1段62巷70號",
       "county": "臺北市",
@@ -9431,7 +9039,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000672",
+      "shelter_id": "SHT_000644",
       "name": "福安國中",
       "address": "士林區延平北路7段250號",
       "county": "臺北市",
@@ -9445,7 +9053,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000673",
+      "shelter_id": "SHT_000645",
       "name": "至善國中",
       "address": "臺北市士林區至善路2段360號",
       "county": "臺北市",
@@ -9459,7 +9067,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000674",
+      "shelter_id": "SHT_000646",
       "name": "吉慶國小",
       "address": "瑞芳區大埔路95號",
       "county": "新北市",
@@ -9473,7 +9081,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000675",
+      "shelter_id": "SHT_000647",
       "name": "中正高中",
       "address": "北投區文林北路77號",
       "county": "臺北市",
@@ -9487,7 +9095,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000676",
+      "shelter_id": "SHT_000648",
       "name": "過港里民活動中心",
       "address": "過港路54號",
       "county": "基隆市",
@@ -9501,7 +9109,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000677",
+      "shelter_id": "SHT_000649",
       "name": "佛祖廟西靈岩寺",
       "address": "佛祖廟西靈岩寺",
       "county": "新北市",
@@ -9515,7 +9123,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000678",
+      "shelter_id": "SHT_000650",
       "name": "雨農國小",
       "address": "士林區忠義街1號",
       "county": "臺北市",
@@ -9529,7 +9137,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000679",
+      "shelter_id": "SHT_000651",
       "name": "爪峰里活動中心",
       "address": "三爪子坑路279-2號",
       "county": "新北市",
@@ -9543,7 +9151,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000680",
+      "shelter_id": "SHT_000652",
       "name": "富安國小",
       "address": "臺北市士林區延平北路8段135號",
       "county": "臺北市",
@@ -9557,7 +9165,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000681",
+      "shelter_id": "SHT_000653",
       "name": "文林國小",
       "address": "北投區文林北路155號",
       "county": "臺北市",
@@ -9571,7 +9179,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000682",
+      "shelter_id": "SHT_000654",
       "name": "雙溪國小",
       "address": "士林區中社路2段66號",
       "county": "臺北市",
@@ -9585,7 +9193,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000683",
+      "shelter_id": "SHT_000655",
       "name": "傑魚市民活動中心",
       "address": "傑魚坑路245巷2-1號2樓",
       "county": "新北市",
@@ -9599,7 +9207,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000684",
+      "shelter_id": "SHT_000656",
       "name": "福住市民活動中心",
       "address": "佛堂巷7號",
       "county": "新北市",
@@ -9613,7 +9221,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000685",
+      "shelter_id": "SHT_000657",
       "name": "新山里活動中心",
       "address": "金光路241號之1",
       "county": "新北市",
@@ -9627,7 +9235,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000686",
+      "shelter_id": "SHT_000658",
       "name": "九份國小",
       "address": "瑞芳區崙頂路145號",
       "county": "新北市",
@@ -9641,7 +9249,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000687",
+      "shelter_id": "SHT_000659",
       "name": "復興國小",
       "address": "華新二路21號",
       "county": "基隆市",
@@ -9655,7 +9263,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000688",
+      "shelter_id": "SHT_000660",
       "name": "明德國中",
       "address": "北投區明德路50號",
       "county": "臺北市",
@@ -9669,7 +9277,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000689",
+      "shelter_id": "SHT_000661",
       "name": "瑞芳國中",
       "address": "瑞芳區三爪子坑路1號",
       "county": "新北市",
@@ -9683,7 +9291,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000690",
+      "shelter_id": "SHT_000662",
       "name": "瑞龍市民活動中心",
       "address": "明燈路3段2號",
       "county": "新北市",
@@ -9697,7 +9305,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000691",
+      "shelter_id": "SHT_000663",
       "name": "基隆高中",
       "address": "源遠路20號",
       "county": "基隆市",
@@ -9711,7 +9319,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000692",
+      "shelter_id": "SHT_000664",
       "name": "觀音市民活動中心",
       "address": "凌雲路三段17之2號",
       "county": "新北市",
@@ -9725,7 +9333,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000693",
+      "shelter_id": "SHT_000665",
       "name": "瑞芳國小",
       "address": "瑞芳區中山路2號",
       "county": "新北市",
@@ -9739,7 +9347,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000694",
+      "shelter_id": "SHT_000666",
       "name": "嘉寶國小",
       "address": "22號",
       "county": "新北市",
@@ -9753,7 +9361,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000695",
+      "shelter_id": "SHT_000667",
       "name": "蘭雅國小",
       "address": "士林區磺溪57號",
       "county": "臺北市",
@@ -9767,7 +9375,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000696",
+      "shelter_id": "SHT_000668",
       "name": "八南里民活動中心",
       "address": "源遠路27號",
       "county": "基隆市",
@@ -9781,7 +9389,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000697",
+      "shelter_id": "SHT_000669",
       "name": "瑞芳區公所",
       "address": "瑞芳區逢甲路82號",
       "county": "新北市",
@@ -9795,7 +9403,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000698",
+      "shelter_id": "SHT_000670",
       "name": "八中里民活動中心",
       "address": "金華街204號",
       "county": "基隆市",
@@ -9809,7 +9417,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000699",
+      "shelter_id": "SHT_000671",
       "name": "瑪陵國小活動中心",
       "address": "大成街1號",
       "county": "基隆市",
@@ -9823,7 +9431,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000700",
+      "shelter_id": "SHT_000672",
       "name": "芝山國小",
       "address": "臺北市士林區德行東路285號",
       "county": "臺北市",
@@ -9837,7 +9445,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000701",
+      "shelter_id": "SHT_000673",
       "name": "瑞芳高工",
       "address": "瑞芳區瑞芳街60號",
       "county": "新北市",
@@ -9851,7 +9459,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000702",
+      "shelter_id": "SHT_000674",
       "name": "蘭雅國中",
       "address": "士林區忠誠路2段51號",
       "county": "臺北市",
@@ -9865,7 +9473,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000703",
+      "shelter_id": "SHT_000675",
       "name": "八西里民活動中心",
       "address": "八堵路35-2號",
       "county": "基隆市",
@@ -9879,7 +9487,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000704",
+      "shelter_id": "SHT_000676",
       "name": "勸濟堂",
       "address": "瑞芳區祈堂路53號",
       "county": "新北市",
@@ -9893,7 +9501,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000705",
+      "shelter_id": "SHT_000677",
       "name": "瓜山國小",
       "address": "瑞芳區五號路306號",
       "county": "新北市",
@@ -9907,7 +9515,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000706",
+      "shelter_id": "SHT_000678",
       "name": "明德國小",
       "address": "北投區明德路190號",
       "county": "臺北市",
@@ -9921,7 +9529,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000707",
+      "shelter_id": "SHT_000679",
       "name": "和美國小",
       "address": "龍洞街1-9號",
       "county": "新北市",
@@ -9935,7 +9543,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000708",
+      "shelter_id": "SHT_000680",
       "name": "佛祖廟西側高地",
       "address": "佛祖廟西側高地",
       "county": "新北市",
@@ -9949,7 +9557,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000709",
+      "shelter_id": "SHT_000681",
       "name": "興福國小",
       "address": "下福10之1號",
       "county": "新北市",
@@ -9963,7 +9571,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000710",
+      "shelter_id": "SHT_000682",
       "name": "翠柏新村安養中心-服務大樓",
       "address": "永春一路5號",
       "county": "新北市",
@@ -9977,7 +9585,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000711",
+      "shelter_id": "SHT_000683",
       "name": "八德里民活動中心",
       "address": "八德路70號",
       "county": "基隆市",
@@ -9991,7 +9599,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000712",
+      "shelter_id": "SHT_000684",
       "name": "石牌國中",
       "address": "臺北市北投區石牌路1段139號",
       "county": "臺北市",
@@ -10005,7 +9613,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000713",
+      "shelter_id": "SHT_000685",
       "name": "石牌國小",
       "address": "北投區致遠2路80號",
       "county": "臺北市",
@@ -10019,7 +9627,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000714",
+      "shelter_id": "SHT_000686",
       "name": "三玉國小",
       "address": "士林區天母東路116號",
       "county": "臺北市",
@@ -10033,7 +9641,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000715",
+      "shelter_id": "SHT_000687",
       "name": "天母國中",
       "address": "士林區天母東路120號",
       "county": "臺北市",
@@ -10047,7 +9655,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000716",
+      "shelter_id": "SHT_000688",
       "name": "南榮國小",
       "address": "南榮路321號",
       "county": "基隆市",
@@ -10061,7 +9669,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000717",
+      "shelter_id": "SHT_000689",
       "name": "立農國小",
       "address": "北投區立農街1段250號",
       "county": "臺北市",
@@ -10075,7 +9683,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000718",
+      "shelter_id": "SHT_000690",
       "name": "天母國小",
       "address": "士林區天玉街12號",
       "county": "臺北市",
@@ -10089,7 +9697,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000719",
+      "shelter_id": "SHT_000691",
       "name": "陽明山國小",
       "address": "臺北市士林區新安里仰德大道3段 61 號",
       "county": "臺北市",
@@ -10103,7 +9711,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000720",
+      "shelter_id": "SHT_000692",
       "name": "溪山國小",
       "address": "臺北市士林區至善路三段199號",
       "county": "臺北市",
@@ -10117,7 +9725,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000721",
+      "shelter_id": "SHT_000693",
       "name": "關渡國中",
       "address": "北投區知行路212號",
       "county": "臺北市",
@@ -10131,7 +9739,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000722",
+      "shelter_id": "SHT_000694",
       "name": "育仁里民活動中心",
       "address": "南榮路269巷28之1號",
       "county": "基隆市",
@@ -10145,7 +9753,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000723",
+      "shelter_id": "SHT_000695",
       "name": "東和市民活動中心",
       "address": "中山路20號",
       "county": "新北市",
@@ -10159,7 +9767,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000724",
+      "shelter_id": "SHT_000696",
       "name": "威遠廟",
       "address": "明里路7-1號",
       "county": "新北市",
@@ -10173,7 +9781,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000725",
+      "shelter_id": "SHT_000697",
       "name": "瑞濱國小",
       "address": "瑞濱路34號",
       "county": "新北市",
@@ -10187,7 +9795,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000726",
+      "shelter_id": "SHT_000698",
       "name": "鼻頭國小",
       "address": "瑞芳區鼻頭路99號",
       "county": "新北市",
@@ -10201,7 +9809,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000727",
+      "shelter_id": "SHT_000699",
       "name": "鶯歌里民活動中心",
       "address": "基隆市安樂區安樂路二段一六四號九樓",
       "county": "基隆市",
@@ -10215,7 +9823,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000728",
+      "shelter_id": "SHT_000700",
       "name": "安樂區公所二樓禮堂",
       "address": "基隆市安樂區安樂路二段一六四號二樓",
       "county": "基隆市",
@@ -10229,7 +9837,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000729",
+      "shelter_id": "SHT_000701",
       "name": "瑞濱市民活動中心",
       "address": "瑞芳區建基路1段4之2號",
       "county": "新北市",
@@ -10243,7 +9851,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000730",
+      "shelter_id": "SHT_000702",
       "name": "壯觀里民活動中心",
       "address": "基隆市安樂區樂利二街62巷282號地下層",
       "county": "基隆市",
@@ -10257,21 +9865,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000731",
-      "name": "普宜苑",
-      "address": "溪山里至善路3段181巷5弄7號",
-      "county": "臺北市",
-      "district": "臺北市士林區",
-      "capacity": 0,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5773,
-        "latitude": 25.1214
-      }
-    },
-    {
-      "shelter_id": "SHT_000732",
+      "shelter_id": "SHT_000703",
       "name": "瑪東里民活動中心",
       "address": "大同街29-3號",
       "county": "基隆市",
@@ -10285,7 +9879,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000733",
+      "shelter_id": "SHT_000704",
       "name": "濂洞國小",
       "address": "瑞芳區凍頂路101巷80號",
       "county": "新北市",
@@ -10299,7 +9893,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000734",
+      "shelter_id": "SHT_000705",
       "name": "七賢里民活動中心",
       "address": "基隆市安樂區安和一街十號",
       "county": "基隆市",
@@ -10313,7 +9907,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000735",
+      "shelter_id": "SHT_000706",
       "name": "吉仁里民活動中心",
       "address": "南新街29之6號",
       "county": "基隆市",
@@ -10327,7 +9921,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000736",
+      "shelter_id": "SHT_000707",
       "name": "孝岡里民活動中心",
       "address": "深澳坑路256-1號",
       "county": "基隆市",
@@ -10341,7 +9935,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000737",
+      "shelter_id": "SHT_000708",
       "name": "新安里臨時聚會場所",
       "address": "新安路85號",
       "county": "臺北市",
@@ -10355,7 +9949,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000738",
+      "shelter_id": "SHT_000709",
       "name": "獅球書院聯合里民活動中心",
       "address": "獅球路50號",
       "county": "基隆市",
@@ -10369,7 +9963,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000739",
+      "shelter_id": "SHT_000710",
       "name": "長樂國小餐廳旁空間",
       "address": "基隆市安樂區樂利三街34巷52號",
       "county": "基隆市",
@@ -10383,7 +9977,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000740",
+      "shelter_id": "SHT_000711",
       "name": "仁愛區公所",
       "address": "光一路28號6樓",
       "county": "基隆市",
@@ -10397,21 +9991,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000741",
-      "name": "光華里民活動中心",
-      "address": "光一路28號5樓",
-      "county": "基隆市",
-      "district": "基隆市仁愛區",
-      "capacity": 70,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.7367,
-        "latitude": 25.1252
-      }
-    },
-    {
-      "shelter_id": "SHT_000742",
+      "shelter_id": "SHT_000712",
       "name": "兆連里民活動中心",
       "address": "獅球路25巷8號",
       "county": "基隆市",
@@ -10425,7 +10005,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000743",
+      "shelter_id": "SHT_000713",
       "name": "林泉里民活動中心",
       "address": "復興街60巷2號",
       "county": "基隆市",
@@ -10439,7 +10019,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000744",
+      "shelter_id": "SHT_000714",
       "name": "長坑市民活動中心",
       "address": "下罟子臨8-3號",
       "county": "新北市",
@@ -10453,7 +10033,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000745",
+      "shelter_id": "SHT_000715",
       "name": "長坑國小",
       "address": "長坑里25號",
       "county": "新北市",
@@ -10467,7 +10047,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000746",
+      "shelter_id": "SHT_000716",
       "name": "竹圍國小自強分校",
       "address": "自強路33號",
       "county": "新北市",
@@ -10481,7 +10061,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000747",
+      "shelter_id": "SHT_000717",
       "name": "四維里民活動中心",
       "address": "基隆市安樂區安和一街一二八之一號",
       "county": "基隆市",
@@ -10495,7 +10075,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000748",
+      "shelter_id": "SHT_000718",
       "name": "福仁里民活動中心",
       "address": "南榮路117巷31弄1號",
       "county": "基隆市",
@@ -10509,7 +10089,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000749",
+      "shelter_id": "SHT_000719",
       "name": "長樂國小活動中心",
       "address": "基隆市安樂區樂利三街30巷123號",
       "county": "基隆市",
@@ -10523,7 +10103,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000750",
+      "shelter_id": "SHT_000720",
       "name": "三民里民活動中心",
       "address": "基隆市安樂區麥金路439巷2號",
       "county": "基隆市",
@@ -10537,7 +10117,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000751",
+      "shelter_id": "SHT_000721",
       "name": "和明里民活動中心",
       "address": "仁二路137巷2弄1之3號",
       "county": "基隆市",
@@ -10551,7 +10131,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000752",
+      "shelter_id": "SHT_000722",
       "name": "禮儀里民活動中心",
       "address": "東明路77巷68號",
       "county": "基隆市",
@@ -10565,7 +10145,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000753",
+      "shelter_id": "SHT_000723",
       "name": "關渡國小",
       "address": "北投區中央北路4段581號",
       "county": "臺北市",
@@ -10579,7 +10159,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000754",
+      "shelter_id": "SHT_000724",
       "name": "清江國小",
       "address": "北投區公?路220號",
       "county": "臺北市",
@@ -10593,7 +10173,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000755",
+      "shelter_id": "SHT_000725",
       "name": "孝深里民活動中心",
       "address": "深澳坑路75號",
       "county": "基隆市",
@@ -10607,7 +10187,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000756",
+      "shelter_id": "SHT_000726",
       "name": "禮東里民活動中心",
       "address": "東明路67巷7號",
       "county": "基隆市",
@@ -10621,7 +10201,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000757",
+      "shelter_id": "SHT_000727",
       "name": "東明里民活動中心",
       "address": "東信路35巷47號1樓",
       "county": "基隆市",
@@ -10635,7 +10215,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000758",
+      "shelter_id": "SHT_000728",
       "name": "文安里民活動中心",
       "address": "仁五路20號2樓",
       "county": "基隆市",
@@ -10649,7 +10229,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000759",
+      "shelter_id": "SHT_000729",
       "name": "玉田里民活動中心",
       "address": "愛四路2巷22之1號",
       "county": "基隆市",
@@ -10663,7 +10243,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000760",
+      "shelter_id": "SHT_000730",
       "name": "智仁里民活動中心",
       "address": "延平街7號",
       "county": "基隆市",
@@ -10677,7 +10257,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000761",
+      "shelter_id": "SHT_000731",
       "name": "花崗里活動中心",
       "address": "劉銘傳路11巷24弄3號",
       "county": "基隆市",
@@ -10691,7 +10271,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000762",
+      "shelter_id": "SHT_000732",
       "name": "新忠勇里民活動中心",
       "address": "仁三路3巷2弄1-1號",
       "county": "基隆市",
@@ -10705,7 +10285,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000763",
+      "shelter_id": "SHT_000733",
       "name": "忠勇里民活動中心",
       "address": "愛五路6巷32號",
       "county": "基隆市",
@@ -10719,7 +10299,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000764",
+      "shelter_id": "SHT_000734",
       "name": "智慧里民活動中心",
       "address": "仁一路7巷61號",
       "county": "基隆市",
@@ -10733,7 +10313,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000765",
+      "shelter_id": "SHT_000735",
       "name": "明德里民活動中心",
       "address": "自來街13巷5之2號",
       "county": "基隆市",
@@ -10747,7 +10327,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000766",
+      "shelter_id": "SHT_000736",
       "name": "仁愛國小",
       "address": "仁二路139號",
       "county": "基隆市",
@@ -10761,7 +10341,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000767",
+      "shelter_id": "SHT_000737",
       "name": "博愛里民活動中心",
       "address": "愛一路8號3樓之7",
       "county": "基隆市",
@@ -10775,7 +10355,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000768",
+      "shelter_id": "SHT_000738",
       "name": "虹橋水錦聯合里民活動中心",
       "address": "仁二路53號",
       "county": "基隆市",
@@ -10789,7 +10369,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000769",
+      "shelter_id": "SHT_000739",
       "name": "朝棟里民活動中心",
       "address": "成功一路133巷5號",
       "county": "基隆市",
@@ -10803,7 +10383,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000770",
+      "shelter_id": "SHT_000740",
       "name": "瑞平國小",
       "address": "後坑路34之1號",
       "county": "新北市",
@@ -10817,7 +10397,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000771",
+      "shelter_id": "SHT_000741",
       "name": "義民里民活動中心",
       "address": "信一路6號4樓",
       "county": "基隆市",
@@ -10831,7 +10411,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000772",
+      "shelter_id": "SHT_000742",
       "name": "瑪西里民活動中心",
       "address": "大華三路75之1號",
       "county": "基隆市",
@@ -10845,7 +10425,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000773",
+      "shelter_id": "SHT_000743",
       "name": "東安里民活動中心",
       "address": "東信路10-2號",
       "county": "基隆市",
@@ -10859,7 +10439,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000774",
+      "shelter_id": "SHT_000744",
       "name": "新店里民活動中心",
       "address": "孝一路100之1號2樓旁通道",
       "county": "基隆市",
@@ -10873,7 +10453,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000775",
+      "shelter_id": "SHT_000745",
       "name": "義和里民活動中心",
       "address": "信一路6號3樓",
       "county": "基隆市",
@@ -10887,7 +10467,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000776",
+      "shelter_id": "SHT_000746",
       "name": "同風里民活動中心",
       "address": "孝二路39號七樓12室（忠孝大樓）",
       "county": "基隆市",
@@ -10901,7 +10481,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000777",
+      "shelter_id": "SHT_000747",
       "name": "平等國小",
       "address": "士林區平等里平菁街101號",
       "county": "臺北市",
@@ -10915,7 +10495,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000778",
+      "shelter_id": "SHT_000748",
       "name": "市立體育館",
       "address": "信二路40-1號",
       "county": "基隆市",
@@ -10929,7 +10509,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000779",
+      "shelter_id": "SHT_000749",
       "name": "義昭里民活動中心",
       "address": "信二路157號",
       "county": "基隆市",
@@ -10943,7 +10523,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000780",
+      "shelter_id": "SHT_000750",
       "name": "新建里民活動中心",
       "address": "成功二路2之1號",
       "county": "基隆市",
@@ -10957,7 +10537,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000781",
+      "shelter_id": "SHT_000751",
       "name": "基隆市信義區公所",
       "address": "信二路179號",
       "county": "基隆市",
@@ -10971,7 +10551,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000782",
+      "shelter_id": "SHT_000752",
       "name": "深澳里市民活動中心",
       "address": "深澳路67 之1號",
       "county": "新北市",
@@ -10985,7 +10565,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000783",
+      "shelter_id": "SHT_000753",
       "name": "仁德里民活動中心",
       "address": "孝一路82之1號2樓旁通道",
       "county": "基隆市",
@@ -10999,7 +10579,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000784",
+      "shelter_id": "SHT_000754",
       "name": "東信里民活動中心",
       "address": "東信路258巷54號",
       "county": "基隆市",
@@ -11013,7 +10593,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000785",
+      "shelter_id": "SHT_000755",
       "name": "安樂國小活動中心",
       "address": "基隆市安樂區安一路177巷23號",
       "county": "基隆市",
@@ -11027,7 +10607,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000786",
+      "shelter_id": "SHT_000756",
       "name": "孝德里民活動中心",
       "address": "東峰街154號",
       "county": "基隆市",
@@ -11041,7 +10621,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000787",
+      "shelter_id": "SHT_000757",
       "name": "文昌里民活動中心",
       "address": "孝四路10之1號（陸橋下）",
       "county": "基隆市",
@@ -11055,7 +10635,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000788",
+      "shelter_id": "SHT_000758",
       "name": "仁義里民活動中心",
       "address": "信二路246巷32號",
       "county": "基隆市",
@@ -11069,7 +10649,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000789",
+      "shelter_id": "SHT_000759",
       "name": "安民里民活動中心",
       "address": "安一路94號",
       "county": "基隆市",
@@ -11083,7 +10663,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000790",
+      "shelter_id": "SHT_000760",
       "name": "格致國中",
       "address": "士林區仰德大道4段75號",
       "county": "臺北市",
@@ -11097,7 +10677,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000791",
+      "shelter_id": "SHT_000761",
       "name": "西華里民活動中心",
       "address": "西定路102號",
       "county": "基隆市",
@@ -11111,7 +10691,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000792",
+      "shelter_id": "SHT_000762",
       "name": "安和及慈仁里民活動中心",
       "address": "基隆市安樂區安一路一七七巷廿三之1號",
       "county": "基隆市",
@@ -11125,7 +10705,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000793",
+      "shelter_id": "SHT_000763",
       "name": "安平里民活動中心",
       "address": "中山一路91號",
       "county": "基隆市",
@@ -11139,7 +10719,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000794",
+      "shelter_id": "SHT_000764",
       "name": "龍米市民活動中心",
       "address": "龍源里龍米路1段223號",
       "county": "新北市",
@@ -11153,7 +10733,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000795",
+      "shelter_id": "SHT_000765",
       "name": "東信國小",
       "address": "正信路26號",
       "county": "基隆市",
@@ -11167,7 +10747,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000796",
+      "shelter_id": "SHT_000766",
       "name": "干城里民活動中心",
       "address": "基隆市安樂區安一路278巷31之1號",
       "county": "基隆市",
@@ -11181,7 +10761,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000797",
+      "shelter_id": "SHT_000767",
       "name": "北投區區民活動中心",
       "address": "臺北市新市街30號6樓",
       "county": "臺北市",
@@ -11195,7 +10775,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000798",
+      "shelter_id": "SHT_000768",
       "name": "西榮里民活動中心",
       "address": "西定路80巷48號",
       "county": "基隆市",
@@ -11209,7 +10789,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000799",
+      "shelter_id": "SHT_000769",
       "name": "安樂高中活動中心",
       "address": "基隆市安樂區安一路360號",
       "county": "基隆市",
@@ -11223,7 +10803,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000800",
+      "shelter_id": "SHT_000770",
       "name": "北投國小",
       "address": "臺北市北投區中央北路1段173號",
       "county": "臺北市",
@@ -11237,7 +10817,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000801",
+      "shelter_id": "SHT_000771",
       "name": "北投國中",
       "address": "北投區溫泉路62號",
       "county": "臺北市",
@@ -11251,7 +10831,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000802",
+      "shelter_id": "SHT_000772",
       "name": "中山里民活動中心",
       "address": "中山一路219號二樓",
       "county": "基隆市",
@@ -11265,7 +10845,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000803",
+      "shelter_id": "SHT_000773",
       "name": "民治里民活動中心",
       "address": "中山一路219號一樓",
       "county": "基隆市",
@@ -11279,7 +10859,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000804",
+      "shelter_id": "SHT_000774",
       "name": "東光里民活動中心",
       "address": "崇法街133號地下室",
       "county": "基隆市",
@@ -11293,7 +10873,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000805",
+      "shelter_id": "SHT_000775",
       "name": "桃源國中",
       "address": "北投區中央北路4段48號",
       "county": "臺北市",
@@ -11307,7 +10887,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000806",
+      "shelter_id": "SHT_000776",
       "name": "港通及正義里民活動中心",
       "address": "義一路87號7樓之1",
       "county": "基隆市",
@@ -11321,7 +10901,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000807",
+      "shelter_id": "SHT_000777",
       "name": "私立聖心女中",
       "address": "龍米路一段263號",
       "county": "新北市",
@@ -11335,7 +10915,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000808",
+      "shelter_id": "SHT_000778",
       "name": "信義里民活動中心",
       "address": "信六路21號2樓",
       "county": "基隆市",
@@ -11349,7 +10929,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000809",
+      "shelter_id": "SHT_000779",
       "name": "太平市民活動中心",
       "address": "汕頭32號",
       "county": "新北市",
@@ -11363,7 +10943,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000810",
+      "shelter_id": "SHT_000780",
       "name": "新豐里民活動中心",
       "address": "新豐街482號3樓",
       "county": "基隆市",
@@ -11377,7 +10957,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000811",
+      "shelter_id": "SHT_000781",
       "name": "中正國小活動中心",
       "address": "中船路36巷4號",
       "county": "基隆市",
@@ -11391,7 +10971,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000812",
+      "shelter_id": "SHT_000782",
       "name": "興寮里民活動中心",
       "address": "基隆市安樂區基金一路41號",
       "county": "基隆市",
@@ -11405,7 +10985,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000813",
+      "shelter_id": "SHT_000783",
       "name": "西川里民活動中心",
       "address": "基隆市安樂區新西街一號",
       "county": "基隆市",
@@ -11419,7 +10999,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000814",
+      "shelter_id": "SHT_000784",
       "name": "文化國小",
       "address": "北投區文化3路1號",
       "county": "臺北市",
@@ -11433,7 +11013,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000815",
+      "shelter_id": "SHT_000785",
       "name": "西定里民活動中心",
       "address": "西定路230號三樓",
       "county": "基隆市",
@@ -11447,7 +11027,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000816",
+      "shelter_id": "SHT_000786",
       "name": "中興里民活動中心",
       "address": "中山二路11號",
       "county": "基隆市",
@@ -11461,7 +11041,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000817",
+      "shelter_id": "SHT_000787",
       "name": "三砂灣聯合里民活動中心",
       "address": "中船路11號2樓",
       "county": "基隆市",
@@ -11475,7 +11055,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000818",
+      "shelter_id": "SHT_000788",
       "name": "外寮里民活動中心",
       "address": "基隆市安樂區基金一路129巷6-1號",
       "county": "基隆市",
@@ -11489,7 +11069,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000819",
+      "shelter_id": "SHT_000789",
       "name": "民生活動中心",
       "address": "民生路27號",
       "county": "新北市",
@@ -11503,7 +11083,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000820",
+      "shelter_id": "SHT_000790",
       "name": "復興崗營區",
       "address": "中央北路二段70號",
       "county": "臺北市",
@@ -11517,7 +11097,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000821",
+      "shelter_id": "SHT_000791",
       "name": "復興崗營區",
       "address": "台北市北投區中央北路二段70號",
       "county": "基隆市",
@@ -11531,7 +11111,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000822",
+      "shelter_id": "SHT_000792",
       "name": "逸仙國小",
       "address": "臺北市北投區新民路2號",
       "county": "臺北市",
@@ -11545,7 +11125,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000823",
+      "shelter_id": "SHT_000793",
       "name": "新民國中",
       "address": "臺北市北投區新民路10號",
       "county": "臺北市",
@@ -11559,21 +11139,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000824",
-      "name": "臺北市北投運動中心",
-      "address": "石牌路一段39巷100號",
-      "county": "臺北市",
-      "district": "臺北市北投區",
-      "capacity": 384,
-      "risk_level": "High Risk",
-      "risk_distance": 500,
-      "coordinates": {
-        "longitude": 121.5065,
-        "latitude": 25.1389
-      }
-    },
-    {
-      "shelter_id": "SHT_000825",
+      "shelter_id": "SHT_000794",
       "name": "復興公園",
       "address": "臺北市北投區中和街200號",
       "county": "臺北市",
@@ -11587,7 +11153,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000826",
+      "shelter_id": "SHT_000795",
       "name": "砂子里民活動中心",
       "address": "調和街3號3樓",
       "county": "基隆市",
@@ -11601,7 +11167,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000827",
+      "shelter_id": "SHT_000796",
       "name": "桃源國小",
       "address": "北投區中央北路3段40巷45號",
       "county": "臺北市",
@@ -11615,7 +11181,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000828",
+      "shelter_id": "SHT_000797",
       "name": "八里國中",
       "address": "荖阡坑路15號",
       "county": "新北市",
@@ -11629,7 +11195,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000829",
+      "shelter_id": "SHT_000798",
       "name": "新西里民活動中心",
       "address": "基隆市安樂區新西街106-1號",
       "county": "基隆市",
@@ -11643,7 +11209,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000830",
+      "shelter_id": "SHT_000799",
       "name": "八斗高中活動中心",
       "address": "新豐街100號",
       "county": "基隆市",
@@ -11657,7 +11223,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000831",
+      "shelter_id": "SHT_000800",
       "name": "中山高中分部活動中心",
       "address": "中山二路105巷144號",
       "county": "基隆市",
@@ -11671,7 +11237,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000832",
+      "shelter_id": "SHT_000801",
       "name": "仁正里民活動中心",
       "address": "中山二路109巷13號",
       "county": "基隆市",
@@ -11685,7 +11251,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000833",
+      "shelter_id": "SHT_000802",
       "name": "中砂里民活動中心",
       "address": "豐稔街50號",
       "county": "基隆市",
@@ -11699,7 +11265,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000834",
+      "shelter_id": "SHT_000803",
       "name": "碧砂里民活動中心",
       "address": "環港街84號2樓",
       "county": "基隆市",
@@ -11713,7 +11279,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000835",
+      "shelter_id": "SHT_000804",
       "name": "西康里民活動中心",
       "address": "復興路24號",
       "county": "基隆市",
@@ -11727,7 +11293,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000836",
+      "shelter_id": "SHT_000805",
       "name": "中和里民活動中心",
       "address": "中平街95號",
       "county": "基隆市",
@@ -11741,7 +11307,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000837",
+      "shelter_id": "SHT_000806",
       "name": "義方國小",
       "address": "北投區珠海路155號",
       "county": "臺北市",
@@ -11755,7 +11321,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000838",
+      "shelter_id": "SHT_000807",
       "name": "正砂里民活動中心",
       "address": "中正路211號",
       "county": "基隆市",
@@ -11769,7 +11335,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000839",
+      "shelter_id": "SHT_000808",
       "name": "砂灣里民活動中心",
       "address": "祥豐街66號3樓",
       "county": "基隆市",
@@ -11783,7 +11349,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000840",
+      "shelter_id": "SHT_000809",
       "name": "健民里民活動中心",
       "address": "健民街5號",
       "county": "基隆市",
@@ -11797,7 +11363,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000841",
+      "shelter_id": "SHT_000810",
       "name": "和平里民活動中心",
       "address": "中山三路103巷82之2號",
       "county": "基隆市",
@@ -11811,7 +11377,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000842",
+      "shelter_id": "SHT_000811",
       "name": "中崙里民活動中心",
       "address": "基隆市安樂區基金二路三巷三號",
       "county": "基隆市",
@@ -11825,7 +11391,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000843",
+      "shelter_id": "SHT_000812",
       "name": "八斗里民活動中心",
       "address": "八斗街57號",
       "county": "基隆市",
@@ -11839,7 +11405,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000844",
+      "shelter_id": "SHT_000813",
       "name": "復興高中",
       "address": "北投區復興四路70號",
       "county": "臺北市",
@@ -11853,7 +11419,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000845",
+      "shelter_id": "SHT_000814",
       "name": "居仁里民活動中心",
       "address": "通仁街162號",
       "county": "基隆市",
@@ -11867,7 +11433,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000846",
+      "shelter_id": "SHT_000815",
       "name": "八斗子環保公園",
       "address": "北寧路369巷",
       "county": "基隆市",
@@ -11881,7 +11447,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000847",
+      "shelter_id": "SHT_000816",
       "name": "通化里民活動中心",
       "address": "復旦路10號",
       "county": "基隆市",
@@ -11895,7 +11461,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000848",
+      "shelter_id": "SHT_000817",
       "name": "中山國小",
       "address": "通仁街28號",
       "county": "基隆市",
@@ -11909,7 +11475,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000849",
+      "shelter_id": "SHT_000818",
       "name": "竹圍高中",
       "address": "竹林路35號",
       "county": "新北市",
@@ -11923,7 +11489,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000850",
+      "shelter_id": "SHT_000819",
       "name": "建國里民活動中心",
       "address": "祥豐街467號2樓",
       "county": "基隆市",
@@ -11937,7 +11503,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000851",
+      "shelter_id": "SHT_000820",
       "name": "中和國小",
       "address": "中和路64號",
       "county": "基隆市",
@@ -11951,7 +11517,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000852",
+      "shelter_id": "SHT_000821",
       "name": "德和里民活動中心",
       "address": "復興路206號",
       "county": "基隆市",
@@ -11965,7 +11531,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000853",
+      "shelter_id": "SHT_000822",
       "name": "米倉國小",
       "address": "龍米路2段129巷1號",
       "county": "新北市",
@@ -11979,7 +11545,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000854",
+      "shelter_id": "SHT_000823",
       "name": "仙洞國小",
       "address": "仁安街141號",
       "county": "基隆市",
@@ -11993,7 +11559,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000855",
+      "shelter_id": "SHT_000824",
       "name": "竹圍國小",
       "address": "中正東路2段145號",
       "county": "新北市",
@@ -12007,7 +11573,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000856",
+      "shelter_id": "SHT_000825",
       "name": "仙洞里民活動中心",
       "address": "太白街2之3號",
       "county": "基隆市",
@@ -12021,7 +11587,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000857",
+      "shelter_id": "SHT_000826",
       "name": "通明里休閒活動中心",
       "address": "中華路42號",
       "county": "基隆市",
@@ -12035,7 +11601,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000858",
+      "shelter_id": "SHT_000827",
       "name": "基隆海事活動中心",
       "address": "祥豐街246號",
       "county": "基隆市",
@@ -12049,7 +11615,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000859",
+      "shelter_id": "SHT_000828",
       "name": "通明里民活動中心",
       "address": "中華路46巷2號",
       "county": "基隆市",
@@ -12063,7 +11629,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000860",
+      "shelter_id": "SHT_000829",
       "name": "中濱里民活動中心",
       "address": "武昌街70巷23號",
       "county": "基隆市",
@@ -12077,7 +11643,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000861",
+      "shelter_id": "SHT_000830",
       "name": "文化活動中心",
       "address": "中山路2段251號1樓",
       "county": "新北市",
@@ -12091,7 +11657,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000862",
+      "shelter_id": "SHT_000831",
       "name": "泉源國小",
       "address": "臺北市北投區東昇路34號",
       "county": "臺北市",
@@ -12105,7 +11671,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000863",
+      "shelter_id": "SHT_000832",
       "name": "八里國小",
       "address": "中山路二段338號",
       "county": "新北市",
@@ -12119,7 +11685,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000864",
+      "shelter_id": "SHT_000833",
       "name": "中正里民活動中心",
       "address": "中正路656巷146號",
       "county": "基隆市",
@@ -12133,7 +11699,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000865",
+      "shelter_id": "SHT_000834",
       "name": "德安里民活動中心",
       "address": "復興路259巷1之1號",
       "county": "基隆市",
@@ -12147,7 +11713,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000866",
+      "shelter_id": "SHT_000835",
       "name": "湖山國小",
       "address": "臺北市北投區湖底路11號",
       "county": "臺北市",
@@ -12161,7 +11727,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000867",
+      "shelter_id": "SHT_000836",
       "name": "國立臺灣海洋大學",
       "address": "北寧路2號",
       "county": "基隆市",
@@ -12175,7 +11741,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000868",
+      "shelter_id": "SHT_000837",
       "name": "大慶活動中心",
       "address": "中和路168巷10弄37號",
       "county": "基隆市",
@@ -12189,7 +11755,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000869",
+      "shelter_id": "SHT_000838",
       "name": "中正區公所",
       "address": "中正路674號7樓",
       "county": "基隆市",
@@ -12203,7 +11769,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000870",
+      "shelter_id": "SHT_000839",
       "name": "太白里民活動中心",
       "address": "光華路7號2樓",
       "county": "基隆市",
@@ -12217,7 +11783,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000871",
+      "shelter_id": "SHT_000840",
       "name": "基隆市中山區公所",
       "address": "文化路168號五樓",
       "county": "基隆市",
@@ -12231,7 +11797,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000872",
+      "shelter_id": "SHT_000841",
       "name": "文化里民活動中心",
       "address": "文化路161巷44之5號",
       "county": "基隆市",
@@ -12245,7 +11811,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000873",
+      "shelter_id": "SHT_000842",
       "name": "中山高中活動中心",
       "address": "文化路162號",
       "county": "基隆市",
@@ -12259,7 +11825,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000874",
+      "shelter_id": "SHT_000843",
       "name": "和平島聯合里民活動中心",
       "address": "和一路155巷14號",
       "county": "基隆市",
@@ -12273,7 +11839,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000875",
+      "shelter_id": "SHT_000844",
       "name": "大屯國小",
       "address": "北投區復興三路312號",
       "county": "臺北市",
@@ -12287,7 +11853,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000876",
+      "shelter_id": "SHT_000845",
       "name": "平寮里民活動中心",
       "address": "和一路186號",
       "county": "基隆市",
@@ -12301,7 +11867,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000877",
+      "shelter_id": "SHT_000846",
       "name": "和平國小活動中心",
       "address": "和一路84巷26號",
       "county": "基隆市",
@@ -12315,7 +11881,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000878",
+      "shelter_id": "SHT_000847",
       "name": "內寮里民活動中心",
       "address": "基隆市安樂區武聖街九號",
       "county": "基隆市",
@@ -12329,7 +11895,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000879",
+      "shelter_id": "SHT_000848",
       "name": "協和里民活動中心",
       "address": "協和路150號",
       "county": "基隆市",
@@ -12343,7 +11909,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000880",
+      "shelter_id": "SHT_000849",
       "name": "坪頂國小",
       "address": "小坪頂18號",
       "county": "新北市",
@@ -12357,7 +11923,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000881",
+      "shelter_id": "SHT_000850",
       "name": "大崁老人活動中心",
       "address": "中山路1段21號",
       "county": "新北市",
@@ -12371,7 +11937,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000882",
+      "shelter_id": "SHT_000851",
       "name": "渡船頭市民活動中心",
       "address": "渡船頭街11巷8號",
       "county": "新北市",
@@ -12385,7 +11951,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000883",
+      "shelter_id": "SHT_000852",
       "name": "大埤頂市民活動中心",
       "address": "中山路1段95號",
       "county": "新北市",
@@ -12399,7 +11965,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000884",
+      "shelter_id": "SHT_000853",
       "name": "崁腳國小",
       "address": "崁腳里崁腳路59號",
       "county": "新北市",
@@ -12413,7 +11979,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000885",
+      "shelter_id": "SHT_000854",
       "name": "大崁國小",
       "address": "忠八街2號",
       "county": "新北市",
@@ -12427,7 +11993,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000886",
+      "shelter_id": "SHT_000855",
       "name": "崁腳活動中心",
       "address": "崁腳里崁腳路55-1號",
       "county": "新北市",
@@ -12441,7 +12007,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000887",
+      "shelter_id": "SHT_000856",
       "name": "竿蓁活動中心",
       "address": "中正東路一段3巷6號",
       "county": "新北市",
@@ -12455,7 +12021,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000888",
+      "shelter_id": "SHT_000857",
       "name": "興音寺",
       "address": "興福寮1-6號",
       "county": "新北市",
@@ -12469,7 +12035,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000889",
+      "shelter_id": "SHT_000858",
       "name": "大坪國小",
       "address": "萬里區雙興里大坪路19號",
       "county": "新北市",
@@ -12483,7 +12049,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000890",
+      "shelter_id": "SHT_000859",
       "name": "真聖宮",
       "address": "興福寮6之1號",
       "county": "新北市",
@@ -12497,7 +12063,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000891",
+      "shelter_id": "SHT_000860",
       "name": "湖田國小",
       "address": "北投區竹子湖路17-2號",
       "county": "臺北市",
@@ -12511,7 +12077,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000892",
+      "shelter_id": "SHT_000861",
       "name": "樹興里活動中心",
       "address": "樹林口14-2號",
       "county": "新北市",
@@ -12525,7 +12091,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000893",
+      "shelter_id": "SHT_000862",
       "name": "長青醫院",
       "address": "糞箕湖1-5號",
       "county": "新北市",
@@ -12539,7 +12105,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000894",
+      "shelter_id": "SHT_000863",
       "name": "長庚活動中心",
       "address": "中山路72巷1弄10號",
       "county": "新北市",
@@ -12553,7 +12119,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000895",
+      "shelter_id": "SHT_000864",
       "name": "鄧公國小",
       "address": "學府路99號",
       "county": "新北市",
@@ -12567,7 +12133,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000896",
+      "shelter_id": "SHT_000865",
       "name": "中興活動中心",
       "address": "水源街一段29號",
       "county": "新北市",
@@ -12581,7 +12147,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000897",
+      "shelter_id": "SHT_000866",
       "name": "淡水國小",
       "address": "中山路160號",
       "county": "新北市",
@@ -12595,7 +12161,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000898",
+      "shelter_id": "SHT_000867",
       "name": "文化國小",
       "address": "真理街6號",
       "county": "新北市",
@@ -12609,7 +12175,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000899",
+      "shelter_id": "SHT_000868",
       "name": "淡水國中",
       "address": "真理街10號",
       "county": "新北市",
@@ -12623,7 +12189,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000900",
+      "shelter_id": "SHT_000869",
       "name": "萬里國小",
       "address": "萬里里瑪鋉路18號",
       "county": "新北市",
@@ -12637,7 +12203,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000901",
+      "shelter_id": "SHT_000870",
       "name": "萬里國中",
       "address": "獅頭路24號",
       "county": "新北市",
@@ -12651,7 +12217,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000902",
+      "shelter_id": "SHT_000871",
       "name": "萬里區行政大樓",
       "address": "萬里里瑪鋉路123號6樓",
       "county": "新北市",
@@ -12665,7 +12231,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000903",
+      "shelter_id": "SHT_000872",
       "name": "中華商業海事職業學校",
       "address": "瑪鋉路15號",
       "county": "新北市",
@@ -12679,7 +12245,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000904",
+      "shelter_id": "SHT_000873",
       "name": "獅頭路瑪鋉公園",
       "address": "中萬里加投瑪鋉港口小段269-20地號",
       "county": "新北市",
@@ -12693,7 +12259,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000905",
+      "shelter_id": "SHT_000874",
       "name": "水碓活動中心",
       "address": "中山北路158號",
       "county": "新北市",
@@ -12707,7 +12273,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000906",
+      "shelter_id": "SHT_000875",
       "name": "萬里區行政大樓",
       "address": "萬里里瑪鋉路123號6樓",
       "county": "新北市",
@@ -12721,7 +12287,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000907",
+      "shelter_id": "SHT_000876",
       "name": "新興活動中心",
       "address": "大義街18號",
       "county": "新北市",
@@ -12735,7 +12301,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000908",
+      "shelter_id": "SHT_000877",
       "name": "正德國中",
       "address": "北新路109號",
       "county": "新北市",
@@ -12749,7 +12315,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000909",
+      "shelter_id": "SHT_000878",
       "name": "新興國小",
       "address": "新興街123號",
       "county": "新北市",
@@ -12763,7 +12329,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000910",
+      "shelter_id": "SHT_000879",
       "name": "天生國小",
       "address": "淡海路72巷26號",
       "county": "新北市",
@@ -12777,7 +12343,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000911",
+      "shelter_id": "SHT_000880",
       "name": "淡海活動中心",
       "address": "淡海路111號",
       "county": "新北市",
@@ -12791,7 +12357,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000912",
+      "shelter_id": "SHT_000881",
       "name": "鎮北宮",
       "address": "玉田路4-2號",
       "county": "新北市",
@@ -12805,7 +12371,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000913",
+      "shelter_id": "SHT_000882",
       "name": "水源國小",
       "address": "北新路二段15號",
       "county": "新北市",
@@ -12819,7 +12385,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000914",
+      "shelter_id": "SHT_000883",
       "name": "水源里活動中心",
       "address": "北新路二段15號2樓",
       "county": "新北市",
@@ -12833,7 +12399,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000915",
+      "shelter_id": "SHT_000884",
       "name": "新市國小",
       "address": "中山北路二段200號",
       "county": "新北市",
@@ -12847,7 +12413,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000916",
+      "shelter_id": "SHT_000885",
       "name": "淡水商工",
       "address": "商工路307號",
       "county": "新北市",
@@ -12861,7 +12427,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000917",
+      "shelter_id": "SHT_000886",
       "name": "基督教芥菜種營地",
       "address": "玉田路25號",
       "county": "新北市",
@@ -12875,7 +12441,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000918",
+      "shelter_id": "SHT_000887",
       "name": "育英國小",
       "address": "埤島里14號",
       "county": "新北市",
@@ -12889,7 +12455,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000919",
+      "shelter_id": "SHT_000888",
       "name": "仁愛之家",
       "address": "龜吼里玉田路61號",
       "county": "新北市",
@@ -12903,7 +12469,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000920",
+      "shelter_id": "SHT_000889",
       "name": "忠山國小",
       "address": "行忠路899號",
       "county": "新北市",
@@ -12917,7 +12483,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000921",
+      "shelter_id": "SHT_000890",
       "name": "磺潭社區親水公園",
       "address": "員潭路",
       "county": "新北市",
@@ -12931,7 +12497,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000922",
+      "shelter_id": "SHT_000891",
       "name": "野柳活動中心",
       "address": "野柳里港東路1-5號",
       "county": "新北市",
@@ -12945,7 +12511,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000923",
+      "shelter_id": "SHT_000892",
       "name": "新北市三芝區興華國民小學",
       "address": "田心子5號",
       "county": "新北市",
@@ -12959,7 +12525,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000924",
+      "shelter_id": "SHT_000893",
       "name": "野柳國小",
       "address": "港東路167號",
       "county": "新北市",
@@ -12973,7 +12539,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000925",
+      "shelter_id": "SHT_000894",
       "name": "大鵬國小",
       "address": "萬里加投14號",
       "county": "新北市",
@@ -12987,7 +12553,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000926",
+      "shelter_id": "SHT_000895",
       "name": "頂寮活動中心",
       "address": "頂社路18號之6",
       "county": "新北市",
@@ -13001,7 +12567,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000927",
+      "shelter_id": "SHT_000896",
       "name": "公館崙公園",
       "address": "月眉路",
       "county": "新北市",
@@ -13015,7 +12581,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000928",
+      "shelter_id": "SHT_000897",
       "name": "興仁國小",
       "address": "興仁路101巷10號",
       "county": "新北市",
@@ -13029,7 +12595,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000929",
+      "shelter_id": "SHT_000898",
       "name": "金山朝天宮",
       "address": "六股林口38-3號",
       "county": "新北市",
@@ -13043,7 +12609,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000930",
+      "shelter_id": "SHT_000899",
       "name": "三和國小",
       "address": "金山區重和里六股林口38號",
       "county": "新北市",
@@ -13057,7 +12623,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000931",
+      "shelter_id": "SHT_000900",
       "name": "金山區運動休閒廣場",
       "address": "金山區五湖里南勢53號",
       "county": "新北市",
@@ -13071,7 +12637,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000932",
+      "shelter_id": "SHT_000901",
       "name": "新北市三芝區圓山里活動中心",
       "address": "木屐寮32號",
       "county": "新北市",
@@ -13085,7 +12651,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000933",
+      "shelter_id": "SHT_000902",
       "name": "金美國小",
       "address": "金山區美田里忠孝一路111號",
       "county": "新北市",
@@ -13099,7 +12665,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000934",
+      "shelter_id": "SHT_000903",
       "name": "中山堂〈1樓禮堂〉",
       "address": "金山區大同里溫泉路2巷10號",
       "county": "新北市",
@@ -13113,7 +12679,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000935",
+      "shelter_id": "SHT_000904",
       "name": "金山國小",
       "address": "金山區大同里金包里街180號",
       "county": "新北市",
@@ -13127,7 +12693,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000936",
+      "shelter_id": "SHT_000905",
       "name": "中泰國小",
       "address": "中和里北勢子5號",
       "county": "新北市",
@@ -13141,7 +12707,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000937",
+      "shelter_id": "SHT_000906",
       "name": "金山高中",
       "address": "金山區美田里文化路2號",
       "county": "新北市",
@@ -13155,7 +12721,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000938",
+      "shelter_id": "SHT_000907",
       "name": "金山青年活動中心",
       "address": "金山區磺港里青年路1號",
       "county": "新北市",
@@ -13169,7 +12735,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000939",
+      "shelter_id": "SHT_000908",
       "name": "六三社區活動中心",
       "address": "三界壇路101-1號",
       "county": "新北市",
@@ -13183,7 +12749,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000940",
+      "shelter_id": "SHT_000909",
       "name": "金山區獅頭山公園",
       "address": "溫泉路",
       "county": "新北市",
@@ -13197,7 +12763,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000941",
+      "shelter_id": "SHT_000910",
       "name": "聖德宮",
       "address": "三界壇路72號",
       "county": "新北市",
@@ -13211,7 +12777,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000942",
+      "shelter_id": "SHT_000911",
       "name": "新北市三芝區八賢里活動中心",
       "address": "八連溪41號",
       "county": "新北市",
@@ -13225,7 +12791,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000943",
+      "shelter_id": "SHT_000912",
       "name": "屯山國小",
       "address": "淡金路五段111號",
       "county": "新北市",
@@ -13239,7 +12805,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000944",
+      "shelter_id": "SHT_000913",
       "name": "中角國小",
       "address": "金山區萬壽里海興路49號",
       "county": "新北市",
@@ -13253,7 +12819,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000945",
+      "shelter_id": "SHT_000914",
       "name": "萬壽活動中心",
       "address": "海興路69號之1",
       "county": "新北市",
@@ -13267,7 +12833,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000946",
+      "shelter_id": "SHT_000915",
       "name": "妙濟寺",
       "address": "4鄰內阿里磅1號",
       "county": "新北市",
@@ -13281,7 +12847,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000947",
+      "shelter_id": "SHT_000916",
       "name": "新北市三芝區公有市場",
       "address": "新北區三芝區民生街31號",
       "county": "新北市",
@@ -13295,7 +12861,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000948",
+      "shelter_id": "SHT_000917",
       "name": "三芝區公所",
       "address": "新北區三芝區中山路一段32號",
       "county": "新北市",
@@ -13309,7 +12875,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000949",
+      "shelter_id": "SHT_000918",
       "name": "新北市三芝區三芝國民小學",
       "address": "新北區三芝區育英街22號",
       "county": "新北市",
@@ -13323,7 +12889,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000950",
+      "shelter_id": "SHT_000919",
       "name": "三芝農會",
       "address": "新北區三芝區中山路一段6號",
       "county": "新北市",
@@ -13337,7 +12903,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000951",
+      "shelter_id": "SHT_000920",
       "name": "新北市三芝區橫山國民小學",
       "address": "大坑86號",
       "county": "新北市",
@@ -13351,7 +12917,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000952",
+      "shelter_id": "SHT_000921",
       "name": "新北市立三芝國民中學",
       "address": "新北區三芝區淡金路一段38號",
       "county": "新北市",
@@ -13365,7 +12931,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000953",
+      "shelter_id": "SHT_000922",
       "name": "乾華國小禮堂",
       "address": "石門區茂林社區74號",
       "county": "新北市",
@@ -13379,7 +12945,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000954",
+      "shelter_id": "SHT_000923",
       "name": "茂林里活動中心",
       "address": "茂林社區1-1號",
       "county": "新北市",
@@ -13393,7 +12959,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000955",
+      "shelter_id": "SHT_000924",
       "name": "草里里活動中心",
       "address": "草里里阿里荖33號之1",
       "county": "新北市",
@@ -13407,7 +12973,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000956",
+      "shelter_id": "SHT_000925",
       "name": "北海岸風景管理處德茂里活動中心",
       "address": "德茂里下員坑 33-6號",
       "county": "新北市",
@@ -13421,7 +12987,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000957",
+      "shelter_id": "SHT_000926",
       "name": "老梅國小教室",
       "address": "石門區老梅老梅路10號",
       "county": "新北市",
@@ -13435,7 +13001,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000958",
+      "shelter_id": "SHT_000927",
       "name": "富基里活動中心",
       "address": "富基里楓林37-6號",
       "county": "新北市",
@@ -13449,7 +13015,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000959",
+      "shelter_id": "SHT_000928",
       "name": "老梅里活動中心",
       "address": "老梅里老梅路43號3樓",
       "county": "新北市",
@@ -13463,7 +13029,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000960",
+      "shelter_id": "SHT_000929",
       "name": "山溪里活動中心",
       "address": "山溪里老崩山6-5號",
       "county": "新北市",
@@ -13477,7 +13043,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000961",
+      "shelter_id": "SHT_000930",
       "name": "石門里活動中心",
       "address": "石門街一號",
       "county": "新北市",
@@ -13491,7 +13057,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000962",
+      "shelter_id": "SHT_000931",
       "name": "石門區體育館",
       "address": "石門區石門里中央路1-9號",
       "county": "新北市",
@@ -13505,7 +13071,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000963",
+      "shelter_id": "SHT_000932",
       "name": "石門區公所",
       "address": "石門區尖鹿里中山路66號",
       "county": "新北市",
@@ -13519,7 +13085,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000964",
+      "shelter_id": "SHT_000933",
       "name": "石門國民中學",
       "address": "石門區尖鹿里中央路1--9號",
       "county": "新北市",
@@ -13533,7 +13099,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000965",
+      "shelter_id": "SHT_000934",
       "name": "石門國小",
       "address": "中央路9號",
       "county": "新北市",
@@ -13547,7 +13113,7 @@
       }
     },
     {
-      "shelter_id": "SHT_000966",
+      "shelter_id": "SHT_000935",
       "name": "尖鹿里活動中心",
       "address": "尖鹿里中央路9之3號1樓",
       "county": "新北市",
