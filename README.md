@@ -16,21 +16,59 @@ This repository contains exactly the 4 required deliverables:
 3. **risk_map.png** - Static risk map and statistical charts
 4. **README.md** - Project documentation with AI diagnostic logs
 
+## Data Sources (Assignment Requirements)
+
+### A. 河川資料 — 水利署
+**Official Source**: Water Resources Agency
+```python
+import geopandas as gpd
+rivers = gpd.read_file('https://gic.wra.gov.tw/Gis/gic/API/Google/DownLoad.aspx?fname=RIVERPOLY&filetype=SHP')
+```
+**Web Portal**: [水利空間資訊服務平台](https://gic.wra.gov.tw/Gis/gic/API/Google/Index.aspx)
+
+### B. 避難收容所資料 — 消防署（政府開放平台）
+**Official Source**: data.gov.tw
+- **Dataset**: [避難收容處所](https://data.gov.tw/dataset/73242)
+- **Format**: CSV with coordinates and capacity
+- **Content**: Nationwide emergency shelters
+
+```python
+import pandas as pd
+import geopandas as gpd
+
+# Load CSV data
+shelters_csv = pd.read_csv('避難收容處所.csv')
+# Convert to GeoDataFrame
+shelters = gpd.GeoDataFrame(
+    shelters_csv,
+    geometry=gpd.points_from_xy(shelters_csv['經度'], shelters_csv['緯度']),
+    crs='EPSG:4326'
+)
+```
+
+### C. 鄉鎮市區界 — 國土測繪中心
+**Official Source**: TGOS (Taiwan Geospatial One Stop)
+```python
+from urllib.parse import quote
+url = 'https://www.tgos.tw/tgos/VirtualDir/Product/3fe61d4a-ca23-4f45-8aca-4a536f40f290/' + quote('鄉(鎮、市、區)界線1140318.zip')
+townships = gpd.read_file(url)
+```
+
 ## Data Files Required
 
-To run the `ARIA.ipynb` notebook, you need these additional data files:
+### For Running ARIA.ipynb
+The notebook automatically tries to load from official sources:
 
-### Required Data Files
-- `shelter_data_clean.csv` (158KB) - Cleaned Fire Department shelter data
-- `rivers_data.geojson` (77MB) - Water Resources Agency river data
+1. **Primary Sources** (as required by assignment):
+   - `避難收容處所.csv` - Download from data.gov.tw
+   - Direct WRA river data loading
 
-**Data Quality Notes**:
-- Original data: 967 shelters with 31 problematic records
-- Cleaned data: 936 valid shelters (3.2% removed)
-- Issues removed: Zero capacity (3), Invalid coordinates (3), Duplicate coordinates (31)
-- Total capacity: 558,016 people
+2. **Fallback Files** (if official sources fail):
+   - `shelter_data_clean.csv` (158KB) - Cleaned shelter data
+   - `rivers_data_sample.geojson` (5MB) - Sample river data
+   - `rivers_data.geojson` (77MB) - Full river data
 
-**Note**: These data files are large and are provided separately from the official assignment submission to keep the repository size manageable. See `DATA_INSTRUCTIONS.md` for details.
+**Note**: The notebook includes intelligent fallback mechanisms to ensure it runs with available data.
 
 ## Technical Implementation
 
